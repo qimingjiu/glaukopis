@@ -1,0 +1,5398 @@
+{
+  "version": 1,
+  "updated": "2026-10-12",
+  "categories": {
+    "books": "书",
+    "courses": "公开课",
+    "fonts": "字体",
+    "images": "图库",
+    "dev": "开发工具",
+    "music": "音乐",
+    "games": "游戏",
+    "history": "历史"
+  },
+  "items": [
+    {
+      "id": "books-001",
+      "name": "Project Gutenberg",
+      "url": "https://www.gutenberg.org",
+      "key": "gutenberg.org",
+      "category": "books",
+      "tags": [
+        "ebook",
+        "public-domain",
+        "en"
+      ],
+      "desc": "7 万多本公版英文电子书",
+      "added": "2026-10-10",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "books-002",
+      "name": "Standard Ebooks",
+      "url": "https://standardebooks.org",
+      "key": "standardebooks.org",
+      "category": "books",
+      "tags": [
+        "ebook",
+        "public-domain",
+        "en"
+      ],
+      "desc": "精排版公版书，免费下载 EPUB",
+      "added": "2026-10-10",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "books-003",
+      "name": "Internet Archive",
+      "url": "https://archive.org",
+      "key": "archive.org",
+      "category": "books",
+      "tags": [
+        "archive",
+        "ebook",
+        "media"
+      ],
+      "desc": "书、音频、视频与网页存档",
+      "added": "2026-10-10",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "books-004",
+      "name": "Open Library",
+      "url": "https://openlibrary.org",
+      "key": "openlibrary.org",
+      "category": "books",
+      "tags": [
+        "ebook",
+        "lending"
+      ],
+      "desc": "可在线借阅的电子书库",
+      "added": "2026-10-10",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "books-005",
+      "name": "Wikisource",
+      "url": "https://wikisource.org",
+      "key": "wikisource.org",
+      "category": "books",
+      "tags": [
+        "public-domain",
+        "zh",
+        "multi"
+      ],
+      "desc": "多语言公版文献，含中文",
+      "added": "2026-10-10",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "books-006",
+      "name": "中国哲学书电子化计划",
+      "url": "https://ctext.org",
+      "key": "ctext.org",
+      "category": "books",
+      "tags": [
+        "zh",
+        "classical"
+      ],
+      "desc": "先秦到清代的古籍，可全文检索",
+      "added": "2026-10-10",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "books-007",
+      "name": "识典古籍",
+      "url": "https://www.shidianguji.com",
+      "key": "shidianguji.com",
+      "category": "books",
+      "tags": [
+        "zh",
+        "classical"
+      ],
+      "desc": "古籍整理本，可在线阅读",
+      "added": "2026-10-10",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "books-008",
+      "name": "HathiTrust 数字图书馆",
+      "url": "https://www.hathitrust.org/",
+      "key": "hathitrust.org",
+      "category": "books",
+      "tags": [
+        "ebook",
+        "public-domain",
+        "en"
+      ],
+      "desc": "1800 万册数字化馆藏可检索",
+      "added": "2026-10-11",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "books-009",
+      "name": "The Online Books Page",
+      "url": "https://onlinebooks.library.upenn.edu/",
+      "key": "onlinebooks.library.upenn.edu",
+      "category": "books",
+      "tags": [
+        "ebook",
+        "index",
+        "en"
+      ],
+      "desc": "宾大整理的免费电子书总目录",
+      "added": "2026-10-11",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "books-010",
+      "name": "LibriVox",
+      "url": "https://librivox.org/",
+      "key": "librivox.org",
+      "category": "books",
+      "tags": [
+        "audiobook",
+        "public-domain",
+        "en"
+      ],
+      "desc": "志愿者朗读的公版有声书",
+      "added": "2026-10-11",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "books-011",
+      "name": "漢リポ Kanseki Repository",
+      "url": "https://www.kanripo.org/",
+      "key": "kanripo.org",
+      "category": "books",
+      "tags": [
+        "guji",
+        "zh",
+        "cc-by-sa"
+      ],
+      "desc": "九千多种汉籍全文，经史子集",
+      "added": "2026-10-11",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "books-012",
+      "name": "Project Gutenberg Australia",
+      "url": "https://gutenberg.net.au/",
+      "key": "gutenberg.net.au",
+      "category": "books",
+      "tags": [
+        "ebook",
+        "public-domain",
+        "en"
+      ],
+      "desc": "澳洲公版书库，收录更多 20 世纪作品",
+      "added": "2026-10-11",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "books-013",
+      "name": "Faded Page",
+      "url": "https://www.fadedpage.com/",
+      "key": "fadedpage.com",
+      "category": "books",
+      "tags": [
+        "ebook",
+        "public-domain",
+        "en"
+      ],
+      "desc": "加拿大公版电子书，校对精良",
+      "added": "2026-10-11",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "books-014",
+      "name": "Wikibooks 维基教科书",
+      "url": "https://www.wikibooks.org/",
+      "key": "wikibooks.org",
+      "category": "books",
+      "tags": [
+        "textbook",
+        "cc",
+        "multi"
+      ],
+      "desc": "人人可编的开放教科书",
+      "added": "2026-10-11",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "books-015",
+      "name": "DOAB 开放获取图书目录",
+      "url": "https://www.doabooks.org/",
+      "key": "doabooks.org",
+      "category": "books",
+      "tags": [
+        "academic",
+        "open-access",
+        "multi"
+      ],
+      "desc": "学术出版社的开放获取专著",
+      "added": "2026-10-11",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "books-016",
+      "name": "OAPEN Library",
+      "url": "https://library.oapen.org/",
+      "key": "library.oapen.org",
+      "category": "books",
+      "tags": [
+        "academic",
+        "open-access",
+        "pdf"
+      ],
+      "desc": "欧洲学术开放图书，可直接下 PDF",
+      "added": "2026-10-11",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "books-017",
+      "name": "Open Textbook Library",
+      "url": "https://open.umn.edu/opentextbooks",
+      "key": "open.umn.edu/opentextbooks",
+      "category": "books",
+      "tags": [
+        "textbook",
+        "cc",
+        "en"
+      ],
+      "desc": "明大整理的开放大学教材",
+      "added": "2026-10-11",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "books-018",
+      "name": "Biodiversity Heritage Library",
+      "url": "https://www.biodiversitylibrary.org/",
+      "key": "biodiversitylibrary.org",
+      "category": "books",
+      "tags": [
+        "natural-history",
+        "public-domain",
+        "scans"
+      ],
+      "desc": "博物学古籍与精美手绘图谱",
+      "added": "2026-10-11",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "books-019",
+      "name": "Gallica 法国国家图书馆",
+      "url": "https://gallica.bnf.fr/",
+      "key": "gallica.bnf.fr",
+      "category": "books",
+      "tags": [
+        "archive",
+        "fr",
+        "scans"
+      ],
+      "desc": "法国国图的书刊、手稿与地图",
+      "added": "2026-10-11",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "books-020",
+      "name": "古文岛（原古诗文网）",
+      "url": "https://www.gushiwen.cn/",
+      "key": "gushiwen.cn",
+      "category": "books",
+      "tags": [
+        "zh",
+        "poetry",
+        "classical"
+      ],
+      "desc": "古诗词全文，附译文与注释",
+      "added": "2026-10-11",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "books-021",
+      "name": "书格",
+      "url": "https://new.shuge.org/",
+      "key": "new.shuge.org",
+      "category": "books",
+      "tags": [
+        "zh",
+        "guji",
+        "scans"
+      ],
+      "desc": "古籍善本与古画高清影像",
+      "added": "2026-10-11",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "books-022",
+      "name": "搜韵",
+      "url": "https://sou-yun.cn/",
+      "key": "sou-yun.cn",
+      "category": "books",
+      "tags": [
+        "zh",
+        "poetry",
+        "search"
+      ],
+      "desc": "诗词检索、格律与典故工具",
+      "added": "2026-10-11",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "books-023",
+      "name": "Poetry Foundation",
+      "url": "https://www.poetryfoundation.org/",
+      "key": "poetryfoundation.org",
+      "category": "books",
+      "tags": [
+        "poetry",
+        "en",
+        "anthology"
+      ],
+      "desc": "数万首英文诗及诗人小传",
+      "added": "2026-10-11",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "books-024",
+      "name": "Global Grey",
+      "url": "https://www.globalgreyebooks.com/",
+      "key": "globalgreyebooks.com",
+      "category": "books",
+      "tags": [
+        "ebook",
+        "public-domain",
+        "en"
+      ],
+      "desc": "无广告的公版电子书",
+      "added": "2026-10-11",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "books-025",
+      "name": "Perseus Digital Library",
+      "url": "https://www.perseus.tufts.edu/hopper/",
+      "key": "perseus.tufts.edu/hopper",
+      "category": "books",
+      "tags": [
+        "classics",
+        "greek",
+        "latin"
+      ],
+      "desc": "古希腊罗马原典与英译",
+      "added": "2026-10-11",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "books-026",
+      "name": "The Latin Library",
+      "url": "https://www.thelatinlibrary.com/",
+      "key": "thelatinlibrary.com",
+      "category": "books",
+      "tags": [
+        "latin",
+        "classics",
+        "texts"
+      ],
+      "desc": "拉丁文原典全文",
+      "added": "2026-10-11",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "books-027",
+      "name": "汉典",
+      "url": "https://www.zdic.net/",
+      "key": "zdic.net",
+      "category": "books",
+      "tags": [
+        "zh",
+        "dictionary",
+        "reference"
+      ],
+      "desc": "字词、成语与书法字典",
+      "added": "2026-10-11",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "books-028",
+      "name": "StoryWeaver",
+      "url": "https://storyweaver.org.in/",
+      "key": "storyweaver.org.in",
+      "category": "books",
+      "tags": [
+        "children",
+        "cc",
+        "multi"
+      ],
+      "desc": "CC 授权多语种童书，含中文",
+      "added": "2026-10-11",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "books-029",
+      "name": "Sacred Texts",
+      "url": "https://sacred-texts.com/",
+      "key": "sacred-texts.com",
+      "category": "books",
+      "tags": [
+        "religion",
+        "mythology",
+        "en"
+      ],
+      "desc": "世界宗教与神话原典",
+      "added": "2026-10-11",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "books-030",
+      "name": "Unglue.it",
+      "url": "https://unglue.it/",
+      "key": "unglue.it",
+      "category": "books",
+      "tags": [
+        "ebook",
+        "cc",
+        "en"
+      ],
+      "desc": "作者开放授权的免费电子书",
+      "added": "2026-10-11",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "books-031",
+      "name": "中国科技论文在线",
+      "url": "https://www.paper.edu.cn/",
+      "key": "paper.edu.cn",
+      "category": "books",
+      "tags": [
+        "zh",
+        "papers",
+        "open-access"
+      ],
+      "desc": "教育部主办的免费论文平台",
+      "added": "2026-10-11",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "books-032",
+      "name": "arXiv",
+      "url": "https://arxiv.org/",
+      "key": "arxiv.org",
+      "category": "books",
+      "tags": [
+        "papers",
+        "preprint",
+        "science"
+      ],
+      "desc": "理工科论文预印本，全部免费",
+      "added": "2026-10-11",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "books-033",
+      "name": "Free Kids Books",
+      "url": "https://freekidsbooks.org/",
+      "key": "freekidsbooks.org",
+      "category": "books",
+      "tags": [
+        "children",
+        "cc",
+        "en"
+      ],
+      "desc": "免费儿童读物与绘本",
+      "added": "2026-10-11",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "courses-009",
+      "name": "MIT OpenCourseWare",
+      "url": "https://ocw.mit.edu",
+      "key": "ocw.mit.edu",
+      "category": "courses",
+      "tags": [
+        "course",
+        "en",
+        "university"
+      ],
+      "desc": "MIT 课程讲义、视频和作业",
+      "added": "2026-10-10",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "courses-010",
+      "name": "OpenStax",
+      "url": "https://openstax.org",
+      "key": "openstax.org",
+      "category": "courses",
+      "tags": [
+        "textbook",
+        "en"
+      ],
+      "desc": "免费的大学教材",
+      "added": "2026-10-10",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "courses-011",
+      "name": "Khan Academy",
+      "url": "https://www.khanacademy.org",
+      "key": "khanacademy.org",
+      "category": "courses",
+      "tags": [
+        "course",
+        "video"
+      ],
+      "desc": "从小学到大学的数理课程",
+      "added": "2026-10-10",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "courses-012",
+      "name": "CS50",
+      "url": "https://cs50.harvard.edu/x/",
+      "key": "cs50.harvard.edu/x",
+      "category": "courses",
+      "tags": [
+        "course",
+        "cs"
+      ],
+      "desc": "哈佛计算机入门课 CS50x，免费旁听",
+      "added": "2026-10-10",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "courses-013",
+      "name": "中国大学MOOC",
+      "url": "https://www.icourse163.org",
+      "key": "icourse163.org",
+      "category": "courses",
+      "tags": [
+        "course",
+        "zh"
+      ],
+      "desc": "国内高校的公开课",
+      "added": "2026-10-10",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "courses-014",
+      "name": "freeCodeCamp",
+      "url": "https://www.freecodecamp.org",
+      "key": "freecodecamp.org",
+      "category": "courses",
+      "tags": [
+        "course",
+        "cs"
+      ],
+      "desc": "编程实战课程和认证",
+      "added": "2026-10-10",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "courses-015",
+      "name": "Open Yale Courses",
+      "url": "https://oyc.yale.edu/",
+      "key": "oyc.yale.edu",
+      "category": "courses",
+      "tags": [
+        "lecture",
+        "university",
+        "en"
+      ],
+      "desc": "耶鲁大学完整课堂录像",
+      "added": "2026-10-11",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "courses-016",
+      "name": "Stanford Engineering Everywhere",
+      "url": "https://see.stanford.edu/",
+      "key": "see.stanford.edu",
+      "category": "courses",
+      "tags": [
+        "lecture",
+        "cs",
+        "en"
+      ],
+      "desc": "斯坦福工程与计算机公开课",
+      "added": "2026-10-11",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "courses-017",
+      "name": "CS 自学指南",
+      "url": "https://csdiy.wiki/",
+      "key": "csdiy.wiki",
+      "category": "courses",
+      "tags": [
+        "cs",
+        "zh",
+        "self-study"
+      ],
+      "desc": "北大学生整理的 CS 自学路线",
+      "added": "2026-10-11",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "courses-018",
+      "name": "学堂在线",
+      "url": "https://www.xuetangx.com/",
+      "key": "xuetangx.com",
+      "category": "courses",
+      "tags": [
+        "mooc",
+        "zh",
+        "university"
+      ],
+      "desc": "清华发起的中文慕课平台",
+      "added": "2026-10-11",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "courses-019",
+      "name": "The Odin Project",
+      "url": "https://www.theodinproject.com/",
+      "key": "theodinproject.com",
+      "category": "courses",
+      "tags": [
+        "webdev",
+        "oss",
+        "en"
+      ],
+      "desc": "开源免费的全栈 Web 课程",
+      "added": "2026-10-11",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "courses-020",
+      "name": "Saylor Academy",
+      "url": "https://learn.saylor.org/",
+      "key": "learn.saylor.org",
+      "category": "courses",
+      "tags": [
+        "course",
+        "university",
+        "en"
+      ],
+      "desc": "大学课程全免费，无需付费",
+      "added": "2026-10-11",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "courses-021",
+      "name": "OpenLearn",
+      "url": "https://www.open.edu/openlearn/",
+      "key": "open.edu/openlearn",
+      "category": "courses",
+      "tags": [
+        "course",
+        "uk",
+        "en"
+      ],
+      "desc": "英国开放大学的免费课程",
+      "added": "2026-10-11",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "courses-022",
+      "name": "Full Stack Open",
+      "url": "https://fullstackopen.com/en/",
+      "key": "fullstackopen.com/en",
+      "category": "courses",
+      "tags": [
+        "webdev",
+        "university",
+        "en"
+      ],
+      "desc": "赫尔辛基大学全栈课程",
+      "added": "2026-10-11",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "courses-023",
+      "name": "MOOC.fi",
+      "url": "https://www.mooc.fi/en/",
+      "key": "mooc.fi/en",
+      "category": "courses",
+      "tags": [
+        "cs",
+        "university",
+        "en"
+      ],
+      "desc": "赫尔辛基大学编程与 AI 课",
+      "added": "2026-10-11",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "courses-024",
+      "name": "Elements of AI",
+      "url": "https://www.elementsofai.com/",
+      "key": "elementsofai.com",
+      "category": "courses",
+      "tags": [
+        "ai",
+        "beginner",
+        "multi"
+      ],
+      "desc": "零基础 AI 入门，多语言",
+      "added": "2026-10-11",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "courses-025",
+      "name": "fast.ai",
+      "url": "https://course.fast.ai/",
+      "key": "course.fast.ai",
+      "category": "courses",
+      "tags": [
+        "ai",
+        "deep-learning",
+        "en"
+      ],
+      "desc": "实用深度学习课程",
+      "added": "2026-10-11",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "courses-026",
+      "name": "3Blue1Brown",
+      "url": "https://www.3blue1brown.com/",
+      "key": "3blue1brown.com",
+      "category": "courses",
+      "tags": [
+        "math",
+        "video",
+        "visual"
+      ],
+      "desc": "可视化讲解数学",
+      "added": "2026-10-11",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "courses-027",
+      "name": "Kaggle Learn",
+      "url": "https://www.kaggle.com/learn",
+      "key": "kaggle.com/learn",
+      "category": "courses",
+      "tags": [
+        "data",
+        "python",
+        "en"
+      ],
+      "desc": "数据科学短课，可在线练习",
+      "added": "2026-10-11",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "courses-028",
+      "name": "网易公开课",
+      "url": "https://open.163.com/",
+      "key": "open.163.com",
+      "category": "courses",
+      "tags": [
+        "course",
+        "zh",
+        "video"
+      ],
+      "desc": "国内外名校公开课中文版",
+      "added": "2026-10-11",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "courses-029",
+      "name": "国家智慧教育平台",
+      "url": "https://www.smartedu.cn/",
+      "key": "smartedu.cn",
+      "category": "courses",
+      "tags": [
+        "zh",
+        "k12",
+        "university"
+      ],
+      "desc": "教育部的中小学到大学免费课",
+      "added": "2026-10-11",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "courses-030",
+      "name": "Paul's Online Math Notes",
+      "url": "https://tutorial.math.lamar.edu/",
+      "key": "tutorial.math.lamar.edu",
+      "category": "courses",
+      "tags": [
+        "math",
+        "calculus",
+        "en"
+      ],
+      "desc": "微积分与微分方程讲义",
+      "added": "2026-10-11",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "courses-031",
+      "name": "LibreTexts",
+      "url": "https://libretexts.org/",
+      "key": "libretexts.org",
+      "category": "courses",
+      "tags": [
+        "textbook",
+        "oer",
+        "en"
+      ],
+      "desc": "各学科开放教材平台",
+      "added": "2026-10-11",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "courses-032",
+      "name": "Open Culture",
+      "url": "https://www.openculture.com/freeonlinecourses",
+      "key": "openculture.com/freeonlinecourses",
+      "category": "courses",
+      "tags": [
+        "index",
+        "course",
+        "en"
+      ],
+      "desc": "一千多门免费网课目录",
+      "added": "2026-10-11",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "courses-033",
+      "name": "Crash Course",
+      "url": "https://thecrashcourse.com/",
+      "key": "thecrashcourse.com",
+      "category": "courses",
+      "tags": [
+        "video",
+        "humanities",
+        "en"
+      ],
+      "desc": "十分钟一集的通识课",
+      "added": "2026-10-11",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "courses-034",
+      "name": "MIT Missing Semester",
+      "url": "https://missing.csail.mit.edu/",
+      "key": "missing.csail.mit.edu",
+      "category": "courses",
+      "tags": [
+        "cs",
+        "shell",
+        "en"
+      ],
+      "desc": "命令行、Git 等计算机必备工具课，有中文译本",
+      "added": "2026-10-11",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "courses-035",
+      "name": "NPTEL",
+      "url": "https://nptel.ac.in/",
+      "key": "nptel.ac.in",
+      "category": "courses",
+      "tags": [
+        "engineering",
+        "university",
+        "en"
+      ],
+      "desc": "印度理工院校的免费工科课程",
+      "added": "2026-10-11",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "courses-036",
+      "name": "Google 机器学习速成课",
+      "url": "https://developers.google.com/machine-learning/crash-course",
+      "key": "developers.google.com/machine-learning/crash-course",
+      "category": "courses",
+      "tags": [
+        "ai",
+        "ml",
+        "multi"
+      ],
+      "desc": "Google 的机器学习入门",
+      "added": "2026-10-11",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "courses-037",
+      "name": "动手学深度学习",
+      "url": "https://zh.d2l.ai/",
+      "key": "zh.d2l.ai",
+      "category": "courses",
+      "tags": [
+        "ai",
+        "zh",
+        "textbook"
+      ],
+      "desc": "可运行代码的深度学习教材",
+      "added": "2026-10-11",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "courses-038",
+      "name": "Seeing Theory",
+      "url": "https://seeing-theory.brown.edu/",
+      "key": "seeing-theory.brown.edu",
+      "category": "courses",
+      "tags": [
+        "statistics",
+        "visual",
+        "interactive"
+      ],
+      "desc": "可视化概率与统计",
+      "added": "2026-10-11",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "courses-039",
+      "name": "PhET 互动仿真",
+      "url": "https://phet.colorado.edu/zh_CN/",
+      "key": "phet.colorado.edu/zh_cn",
+      "category": "courses",
+      "tags": [
+        "physics",
+        "interactive",
+        "zh"
+      ],
+      "desc": "科罗拉多大学理科互动仿真实验",
+      "added": "2026-10-11",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "courses-040",
+      "name": "BetterExplained",
+      "url": "https://betterexplained.com/",
+      "key": "betterexplained.com",
+      "category": "courses",
+      "tags": [
+        "math",
+        "intuition",
+        "en"
+      ],
+      "desc": "用直觉讲懂数学概念",
+      "added": "2026-10-11",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "courses-041",
+      "name": "GeoGebra",
+      "url": "https://www.geogebra.org/",
+      "key": "geogebra.org",
+      "category": "courses",
+      "tags": [
+        "math",
+        "interactive",
+        "tool"
+      ],
+      "desc": "免费数学作图与互动课件",
+      "added": "2026-10-11",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "courses-042",
+      "name": "Teach Yourself CS",
+      "url": "https://teachyourselfcs.com/",
+      "key": "teachyourselfcs.com",
+      "category": "courses",
+      "tags": [
+        "cs",
+        "self-study",
+        "en"
+      ],
+      "desc": "计算机科学自学书单与路线",
+      "added": "2026-10-11",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "fonts-015",
+      "name": "Google Fonts",
+      "url": "https://fonts.google.com",
+      "key": "fonts.google.com",
+      "category": "fonts",
+      "tags": [
+        "font",
+        "open-source"
+      ],
+      "desc": "开源字体库",
+      "added": "2026-10-10",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "fonts-016",
+      "name": "猫啃网",
+      "url": "https://www.maoken.com",
+      "key": "maoken.com",
+      "category": "fonts",
+      "tags": [
+        "font",
+        "zh"
+      ],
+      "desc": "可免费商用的中文字体合集",
+      "added": "2026-10-10",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "fonts-017",
+      "name": "LXGW 霞鹜文楷",
+      "url": "https://github.com/lxgw/LxgwWenKai",
+      "key": "github.com/lxgw/lxgwwenkai",
+      "category": "fonts",
+      "tags": [
+        "font",
+        "zh",
+        "open-source"
+      ],
+      "desc": "开源中文楷体",
+      "added": "2026-10-10",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "fonts-018",
+      "name": "Fontshare",
+      "url": "https://www.fontshare.com",
+      "key": "fontshare.com",
+      "category": "fonts",
+      "tags": [
+        "font",
+        "en"
+      ],
+      "desc": "免费的高质量西文字体",
+      "added": "2026-10-10",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "fonts-019",
+      "name": "100font 免费字体",
+      "url": "https://www.100font.com/",
+      "key": "100font.com",
+      "category": "fonts",
+      "tags": [
+        "zh",
+        "commercial-ok",
+        "index"
+      ],
+      "desc": "免费可商用中文字体合集",
+      "added": "2026-10-11",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "fonts-020",
+      "name": "思源黑体 Source Han Sans",
+      "url": "https://github.com/adobe-fonts/source-han-sans",
+      "key": "github.com/adobe-fonts/source-han-sans",
+      "category": "fonts",
+      "tags": [
+        "zh",
+        "ofl",
+        "sans"
+      ],
+      "desc": "Adobe 开源泛 CJK 黑体",
+      "added": "2026-10-11",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "fonts-021",
+      "name": "霞鹜新晰黑",
+      "url": "https://github.com/lxgw/LxgwNeoXiHei",
+      "key": "github.com/lxgw/lxgwneoxihei",
+      "category": "fonts",
+      "tags": [
+        "zh",
+        "oss",
+        "sans"
+      ],
+      "desc": "开源可商用的中文黑体",
+      "added": "2026-10-11",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "fonts-022",
+      "name": "朱雀仿宋",
+      "url": "https://github.com/TrionesType/zhuque",
+      "key": "github.com/trionestype/zhuque",
+      "category": "fonts",
+      "tags": [
+        "zh",
+        "ofl",
+        "fangsong"
+      ],
+      "desc": "开源可商用的仿宋字体",
+      "added": "2026-10-11",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "fonts-023",
+      "name": "Font Squirrel",
+      "url": "https://www.fontsquirrel.com/",
+      "key": "fontsquirrel.com",
+      "category": "fonts",
+      "tags": [
+        "en",
+        "commercial-ok",
+        "index"
+      ],
+      "desc": "精选可商用免费西文字体",
+      "added": "2026-10-11",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "fonts-024",
+      "name": "思源宋体 Source Han Serif",
+      "url": "https://github.com/adobe-fonts/source-han-serif",
+      "key": "github.com/adobe-fonts/source-han-serif",
+      "category": "fonts",
+      "tags": [
+        "zh",
+        "ofl",
+        "serif"
+      ],
+      "desc": "Adobe 开源泛 CJK 宋体",
+      "added": "2026-10-11",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "fonts-025",
+      "name": "得意黑 Smiley Sans",
+      "url": "https://github.com/atelier-anchor/smiley-sans",
+      "key": "github.com/atelier-anchor/smiley-sans",
+      "category": "fonts",
+      "tags": [
+        "zh",
+        "ofl",
+        "display"
+      ],
+      "desc": "开源可商用的斜体中文标题字",
+      "added": "2026-10-11",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "fonts-026",
+      "name": "阿里巴巴普惠体",
+      "url": "https://www.alibabafonts.com/",
+      "key": "alibabafonts.com",
+      "category": "fonts",
+      "tags": [
+        "zh",
+        "commercial-ok",
+        "sans"
+      ],
+      "desc": "阿里免费商用的中文字体家族",
+      "added": "2026-10-11",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "fonts-027",
+      "name": "HarmonyOS Sans",
+      "url": "https://developer.huawei.com/consumer/cn/design/resource/",
+      "key": "developer.huawei.com/consumer/cn/design/resource",
+      "category": "fonts",
+      "tags": [
+        "zh",
+        "commercial-ok",
+        "sans"
+      ],
+      "desc": "华为鸿蒙系统字体，免费商用",
+      "added": "2026-10-11",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "fonts-028",
+      "name": "MiSans",
+      "url": "https://hyperos.mi.com/font",
+      "key": "hyperos.mi.com/font",
+      "category": "fonts",
+      "tags": [
+        "zh",
+        "commercial-ok",
+        "sans"
+      ],
+      "desc": "小米系统字体，可免费商用",
+      "added": "2026-10-11",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "fonts-029",
+      "name": "霞鹜漫黑",
+      "url": "https://github.com/lxgw/LxgwMarkerGothic",
+      "key": "github.com/lxgw/lxgwmarkergothic",
+      "category": "fonts",
+      "tags": [
+        "zh",
+        "ofl",
+        "display"
+      ],
+      "desc": "开源手写感中文黑体",
+      "added": "2026-10-11",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "fonts-030",
+      "name": "Noto CJK",
+      "url": "https://github.com/notofonts/noto-cjk",
+      "key": "github.com/notofonts/noto-cjk",
+      "category": "fonts",
+      "tags": [
+        "zh",
+        "ofl",
+        "multi"
+      ],
+      "desc": "Google 开源中日韩字体",
+      "added": "2026-10-11",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "fonts-031",
+      "name": "更纱黑体 Sarasa Gothic",
+      "url": "https://github.com/be5invis/Sarasa-Gothic",
+      "key": "github.com/be5invis/sarasa-gothic",
+      "category": "fonts",
+      "tags": [
+        "zh",
+        "ofl",
+        "mono"
+      ],
+      "desc": "中英等宽编程字体",
+      "added": "2026-10-11",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "fonts-032",
+      "name": "未来荧黑 Glow Sans",
+      "url": "https://github.com/welai/glow-sans",
+      "key": "github.com/welai/glow-sans",
+      "category": "fonts",
+      "tags": [
+        "zh",
+        "ofl",
+        "sans"
+      ],
+      "desc": "开源多字重中文黑体",
+      "added": "2026-10-11",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "fonts-033",
+      "name": "The League of Moveable Type",
+      "url": "https://www.theleagueofmoveabletype.com/",
+      "key": "theleagueofmoveabletype.com",
+      "category": "fonts",
+      "tags": [
+        "en",
+        "ofl",
+        "display"
+      ],
+      "desc": "最早的开源字体铸字坊",
+      "added": "2026-10-11",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "fonts-034",
+      "name": "Velvetyne",
+      "url": "https://velvetyne.fr/",
+      "key": "velvetyne.fr",
+      "category": "fonts",
+      "tags": [
+        "en",
+        "ofl",
+        "experimental"
+      ],
+      "desc": "法国实验风开源字体",
+      "added": "2026-10-11",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "fonts-035",
+      "name": "Collletttivo",
+      "url": "https://www.collletttivo.it/",
+      "key": "collletttivo.it",
+      "category": "fonts",
+      "tags": [
+        "en",
+        "ofl",
+        "display"
+      ],
+      "desc": "意大利设计师的开源字体集",
+      "added": "2026-10-11",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "fonts-036",
+      "name": "Open Foundry",
+      "url": "https://open-foundry.com/",
+      "key": "open-foundry.com",
+      "category": "fonts",
+      "tags": [
+        "en",
+        "ofl",
+        "curated"
+      ],
+      "desc": "精选开源字体的展示平台",
+      "added": "2026-10-11",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "fonts-037",
+      "name": "Font Library",
+      "url": "https://fontlibrary.org/",
+      "key": "fontlibrary.org",
+      "category": "fonts",
+      "tags": [
+        "en",
+        "oss",
+        "index"
+      ],
+      "desc": "自由授权字体库",
+      "added": "2026-10-11",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "fonts-038",
+      "name": "Bunny Fonts",
+      "url": "https://fonts.bunny.net/",
+      "key": "fonts.bunny.net",
+      "category": "fonts",
+      "tags": [
+        "webfont",
+        "cdn",
+        "privacy"
+      ],
+      "desc": "免追踪的 Google Fonts 镜像",
+      "added": "2026-10-11",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "fonts-039",
+      "name": "Uncut",
+      "url": "https://uncut.wtf/",
+      "key": "uncut.wtf",
+      "category": "fonts",
+      "tags": [
+        "en",
+        "free",
+        "curated"
+      ],
+      "desc": "精选免费当代西文字体",
+      "added": "2026-10-11",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "fonts-040",
+      "name": "Fontsource",
+      "url": "https://fontsource.org/",
+      "key": "fontsource.org",
+      "category": "fonts",
+      "tags": [
+        "webfont",
+        "npm",
+        "oss"
+      ],
+      "desc": "可自托管的开源网页字体包",
+      "added": "2026-10-11",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "fonts-041",
+      "name": "Nerd Fonts",
+      "url": "https://www.nerdfonts.com/",
+      "key": "nerdfonts.com",
+      "category": "fonts",
+      "tags": [
+        "mono",
+        "icons",
+        "oss"
+      ],
+      "desc": "带图标的编程等宽字体",
+      "added": "2026-10-11",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "fonts-042",
+      "name": "JetBrains Mono",
+      "url": "https://www.jetbrains.com/lp/mono/",
+      "key": "jetbrains.com/lp/mono",
+      "category": "fonts",
+      "tags": [
+        "mono",
+        "ofl",
+        "code"
+      ],
+      "desc": "为写代码设计的等宽字体",
+      "added": "2026-10-11",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "fonts-043",
+      "name": "Inter",
+      "url": "https://rsms.me/inter/",
+      "key": "rsms.me/inter",
+      "category": "fonts",
+      "tags": [
+        "en",
+        "ofl",
+        "sans"
+      ],
+      "desc": "屏幕友好的无衬线字体",
+      "added": "2026-10-11",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "fonts-044",
+      "name": "Iosevka",
+      "url": "https://typeof.net/Iosevka/",
+      "key": "typeof.net/iosevka",
+      "category": "fonts",
+      "tags": [
+        "mono",
+        "ofl",
+        "code"
+      ],
+      "desc": "可定制的窄等宽字体",
+      "added": "2026-10-11",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "fonts-045",
+      "name": "Atkinson Hyperlegible",
+      "url": "https://www.brailleinstitute.org/freefont/",
+      "key": "brailleinstitute.org/freefont",
+      "category": "fonts",
+      "tags": [
+        "en",
+        "accessibility",
+        "free"
+      ],
+      "desc": "为低视力读者设计的易读字体",
+      "added": "2026-10-11",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "fonts-046",
+      "name": "OpenDyslexic",
+      "url": "https://opendyslexic.org/",
+      "key": "opendyslexic.org",
+      "category": "fonts",
+      "tags": [
+        "en",
+        "accessibility",
+        "oss"
+      ],
+      "desc": "帮助阅读障碍者的开源字体",
+      "added": "2026-10-11",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "fonts-047",
+      "name": "中文网字计划",
+      "url": "https://chinese-font.netlify.app/",
+      "key": "chinese-font.netlify.app",
+      "category": "fonts",
+      "tags": [
+        "zh",
+        "webfont",
+        "cdn"
+      ],
+      "desc": "开源中文字体的网页切片 CDN",
+      "added": "2026-10-11",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "fonts-048",
+      "name": "台北黑体",
+      "url": "https://sites.google.com/view/jtfoundry/",
+      "key": "sites.google.com/view/jtfoundry",
+      "category": "fonts",
+      "tags": [
+        "zh",
+        "ofl",
+        "sans"
+      ],
+      "desc": "开源繁中黑体",
+      "added": "2026-10-11",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "images-019",
+      "name": "Unsplash",
+      "url": "https://unsplash.com",
+      "key": "unsplash.com",
+      "category": "images",
+      "tags": [
+        "photo",
+        "free-license"
+      ],
+      "desc": "免费高清摄影图",
+      "added": "2026-10-10",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "images-020",
+      "name": "Pexels",
+      "url": "https://www.pexels.com",
+      "key": "pexels.com",
+      "category": "images",
+      "tags": [
+        "photo",
+        "video"
+      ],
+      "desc": "免费图片和视频素材",
+      "added": "2026-10-10",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "images-021",
+      "name": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org",
+      "key": "commons.wikimedia.org",
+      "category": "images",
+      "tags": [
+        "photo",
+        "cc"
+      ],
+      "desc": "开放授权的图片和媒体",
+      "added": "2026-10-10",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "images-022",
+      "name": "The Met Open Access",
+      "url": "https://www.metmuseum.org/art/collection",
+      "key": "metmuseum.org/art/collection",
+      "category": "images",
+      "tags": [
+        "art",
+        "public-domain"
+      ],
+      "desc": "大都会博物馆的公版藏品图",
+      "added": "2026-10-10",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "images-023",
+      "name": "unDraw",
+      "url": "https://undraw.co",
+      "key": "undraw.co",
+      "category": "images",
+      "tags": [
+        "illustration",
+        "svg"
+      ],
+      "desc": "可改色的开源插画",
+      "added": "2026-10-10",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "images-024",
+      "name": "Iconify",
+      "url": "https://icon-sets.iconify.design",
+      "key": "icon-sets.iconify.design",
+      "category": "images",
+      "tags": [
+        "icon",
+        "svg"
+      ],
+      "desc": "20 万多个开源图标",
+      "added": "2026-10-10",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "images-025",
+      "name": "Pixabay",
+      "url": "https://pixabay.com/",
+      "key": "pixabay.com",
+      "category": "images",
+      "tags": [
+        "photo",
+        "royalty-free",
+        "vector"
+      ],
+      "desc": "630 万+免版税图片与插画",
+      "added": "2026-10-11",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "images-026",
+      "name": "Openverse",
+      "url": "https://openverse.org/",
+      "key": "openverse.org",
+      "category": "images",
+      "tags": [
+        "search",
+        "cc",
+        "public-domain"
+      ],
+      "desc": "8 亿件 CC 授权作品搜索",
+      "added": "2026-10-11",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "images-027",
+      "name": "IconPark",
+      "url": "https://iconpark.oceanengine.com/",
+      "key": "iconpark.oceanengine.com",
+      "category": "images",
+      "tags": [
+        "icons",
+        "zh",
+        "oss"
+      ],
+      "desc": "字节开源两千多个可换色图标",
+      "added": "2026-10-11",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "images-028",
+      "name": "Openclipart",
+      "url": "https://openclipart.org/",
+      "key": "openclipart.org",
+      "category": "images",
+      "tags": [
+        "clipart",
+        "public-domain",
+        "svg"
+      ],
+      "desc": "公共领域矢量剪贴画",
+      "added": "2026-10-11",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "images-029",
+      "name": "Tabler Icons",
+      "url": "https://tabler.io/icons",
+      "key": "tabler.io/icons",
+      "category": "images",
+      "tags": [
+        "icons",
+        "svg",
+        "mit"
+      ],
+      "desc": "六千多个开源线性 SVG 图标",
+      "added": "2026-10-11",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "images-030",
+      "name": "Art Institute of Chicago",
+      "url": "https://www.artic.edu/collection",
+      "key": "artic.edu/collection",
+      "category": "images",
+      "tags": [
+        "art",
+        "cc0",
+        "museum"
+      ],
+      "desc": "芝加哥艺术博物馆 CC0 藏品图",
+      "added": "2026-10-11",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "images-031",
+      "name": "National Gallery of Art",
+      "url": "https://www.nga.gov/artworks/free-images-and-open-access",
+      "key": "nga.gov/artworks/free-images-and-open-access",
+      "category": "images",
+      "tags": [
+        "art",
+        "public-domain",
+        "museum"
+      ],
+      "desc": "美国国家美术馆开放图像",
+      "added": "2026-10-11",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "images-032",
+      "name": "Cleveland Museum of Art",
+      "url": "https://www.clevelandart.org/open-access",
+      "key": "clevelandart.org/open-access",
+      "category": "images",
+      "tags": [
+        "art",
+        "cc0",
+        "museum"
+      ],
+      "desc": "克利夫兰美术馆 CC0 开放藏品",
+      "added": "2026-10-11",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "images-033",
+      "name": "NASA Image Library",
+      "url": "https://images.nasa.gov/",
+      "key": "images.nasa.gov",
+      "category": "images",
+      "tags": [
+        "space",
+        "public-domain",
+        "photo"
+      ],
+      "desc": "NASA 太空照片与视频",
+      "added": "2026-10-11",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "images-034",
+      "name": "Old Book Illustrations",
+      "url": "https://www.oldbookillustrations.com/",
+      "key": "oldbookillustrations.com",
+      "category": "images",
+      "tags": [
+        "illustration",
+        "public-domain",
+        "vintage"
+      ],
+      "desc": "古书里的版画插图",
+      "added": "2026-10-11",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "images-035",
+      "name": "Flickr Commons",
+      "url": "https://www.flickr.com/commons",
+      "key": "flickr.com/commons",
+      "category": "images",
+      "tags": [
+        "archive",
+        "no-known-copyright",
+        "photo"
+      ],
+      "desc": "各国馆藏的无版权老照片",
+      "added": "2026-10-11",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "images-036",
+      "name": "Heroicons",
+      "url": "https://heroicons.com/",
+      "key": "heroicons.com",
+      "category": "images",
+      "tags": [
+        "icons",
+        "svg",
+        "mit"
+      ],
+      "desc": "Tailwind 团队的开源图标",
+      "added": "2026-10-11",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "images-037",
+      "name": "Lucide",
+      "url": "https://lucide.dev/",
+      "key": "lucide.dev",
+      "category": "images",
+      "tags": [
+        "icons",
+        "svg",
+        "isc"
+      ],
+      "desc": "一千多个开源线性图标",
+      "added": "2026-10-11",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "images-038",
+      "name": "Phosphor Icons",
+      "url": "https://phosphoricons.com/",
+      "key": "phosphoricons.com",
+      "category": "images",
+      "tags": [
+        "icons",
+        "svg",
+        "mit"
+      ],
+      "desc": "六种粗细的开源图标",
+      "added": "2026-10-11",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "images-039",
+      "name": "iconfont 阿里图标库",
+      "url": "https://www.iconfont.cn/",
+      "key": "iconfont.cn",
+      "category": "images",
+      "tags": [
+        "icons",
+        "zh",
+        "svg"
+      ],
+      "desc": "阿里巴巴矢量图标库",
+      "added": "2026-10-11",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "images-040",
+      "name": "Open Peeps",
+      "url": "https://www.openpeeps.com/",
+      "key": "openpeeps.com",
+      "category": "images",
+      "tags": [
+        "illustration",
+        "cc0",
+        "people"
+      ],
+      "desc": "CC0 手绘人物插画",
+      "added": "2026-10-11",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "images-041",
+      "name": "Humaaans",
+      "url": "https://www.humaaans.com/",
+      "key": "humaaans.com",
+      "category": "images",
+      "tags": [
+        "illustration",
+        "free",
+        "people"
+      ],
+      "desc": "可混搭的人物插画",
+      "added": "2026-10-11",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "images-042",
+      "name": "Burst",
+      "url": "https://burst.shopify.com/",
+      "key": "burst.shopify.com",
+      "category": "images",
+      "tags": [
+        "photo",
+        "free-license",
+        "business"
+      ],
+      "desc": "Shopify 的免费商用图库",
+      "added": "2026-10-11",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "images-043",
+      "name": "StockSnap",
+      "url": "https://stocksnap.io/",
+      "key": "stocksnap.io",
+      "category": "images",
+      "tags": [
+        "photo",
+        "cc0"
+      ],
+      "desc": "CC0 高清摄影图",
+      "added": "2026-10-11",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "images-044",
+      "name": "Paris Musées",
+      "url": "https://www.parismuseescollections.paris.fr/en",
+      "key": "parismuseescollections.paris.fr/en",
+      "category": "images",
+      "tags": [
+        "art",
+        "cc0",
+        "museum"
+      ],
+      "desc": "巴黎市立博物馆 CC0 藏品",
+      "added": "2026-10-11",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "images-045",
+      "name": "SMK Open",
+      "url": "https://open.smk.dk/en",
+      "key": "open.smk.dk/en",
+      "category": "images",
+      "tags": [
+        "art",
+        "public-domain",
+        "museum"
+      ],
+      "desc": "丹麦国家美术馆开放图像",
+      "added": "2026-10-11",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "images-046",
+      "name": "SVG Repo",
+      "url": "https://www.svgrepo.com/",
+      "key": "svgrepo.com",
+      "category": "images",
+      "tags": [
+        "icons",
+        "svg",
+        "free"
+      ],
+      "desc": "50 万个免费 SVG 图标与矢量",
+      "added": "2026-10-11",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "images-047",
+      "name": "Poly Haven",
+      "url": "https://polyhaven.com/",
+      "key": "polyhaven.com",
+      "category": "images",
+      "tags": [
+        "3d",
+        "hdri",
+        "cc0"
+      ],
+      "desc": "CC0 的 HDRI、材质与模型",
+      "added": "2026-10-11",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "images-048",
+      "name": "ambientCG",
+      "url": "https://ambientcg.com/",
+      "key": "ambientcg.com",
+      "category": "images",
+      "tags": [
+        "texture",
+        "cc0",
+        "3d"
+      ],
+      "desc": "CC0 PBR 材质贴图",
+      "added": "2026-10-11",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "images-049",
+      "name": "Simple Icons",
+      "url": "https://simpleicons.org/",
+      "key": "simpleicons.org",
+      "category": "images",
+      "tags": [
+        "icons",
+        "brands",
+        "cc0"
+      ],
+      "desc": "三千多个品牌 SVG 图标",
+      "added": "2026-10-11",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "images-050",
+      "name": "Gratisography",
+      "url": "https://gratisography.com/",
+      "key": "gratisography.com",
+      "category": "images",
+      "tags": [
+        "photo",
+        "free-license",
+        "quirky"
+      ],
+      "desc": "风格古怪的免费图片",
+      "added": "2026-10-11",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "images-051",
+      "name": "Wellcome Collection",
+      "url": "https://wellcomecollection.org/collections",
+      "key": "wellcomecollection.org/collections",
+      "category": "images",
+      "tags": [
+        "archive",
+        "cc",
+        "medicine"
+      ],
+      "desc": "医学史图像与手稿",
+      "added": "2026-10-11",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "images-052",
+      "name": "Getty Open Content",
+      "url": "https://www.getty.edu/projects/open-content-program/",
+      "key": "getty.edu/projects/open-content-program",
+      "category": "images",
+      "tags": [
+        "art",
+        "public-domain",
+        "museum"
+      ],
+      "desc": "盖蒂博物馆开放图像",
+      "added": "2026-10-11",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "images-053",
+      "name": "Remix Icon",
+      "url": "https://remixicon.com/",
+      "key": "remixicon.com",
+      "category": "images",
+      "tags": [
+        "icons",
+        "svg",
+        "oss"
+      ],
+      "desc": "两千多个开源中性风图标",
+      "added": "2026-10-11",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "dev-025",
+      "name": "GitHub Pages",
+      "url": "https://pages.github.com",
+      "key": "pages.github.com",
+      "category": "dev",
+      "tags": [
+        "hosting",
+        "static"
+      ],
+      "desc": "免费托管静态网站",
+      "added": "2026-10-10",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "dev-026",
+      "name": "Render",
+      "url": "https://render.com",
+      "key": "render.com",
+      "category": "dev",
+      "tags": [
+        "hosting"
+      ],
+      "desc": "免费的 web 服务和静态站",
+      "added": "2026-10-10",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "dev-027",
+      "name": "Railway",
+      "url": "https://railway.com",
+      "key": "railway.com",
+      "category": "dev",
+      "tags": [
+        "hosting"
+      ],
+      "desc": "每月 $1 额度的小服务器",
+      "added": "2026-10-10",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "dev-028",
+      "name": "DevDocs",
+      "url": "https://devdocs.io",
+      "key": "devdocs.io",
+      "category": "dev",
+      "tags": [
+        "docs"
+      ],
+      "desc": "聚合各种 API 文档",
+      "added": "2026-10-10",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "dev-029",
+      "name": "MDN Web Docs",
+      "url": "https://developer.mozilla.org",
+      "key": "developer.mozilla.org",
+      "category": "dev",
+      "tags": [
+        "docs",
+        "web"
+      ],
+      "desc": "前端开发权威文档",
+      "added": "2026-10-10",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "dev-030",
+      "name": "Excalidraw",
+      "url": "https://excalidraw.com",
+      "key": "excalidraw.com",
+      "category": "dev",
+      "tags": [
+        "tool",
+        "diagram"
+      ],
+      "desc": "手绘风白板画图",
+      "added": "2026-10-10",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "dev-031",
+      "name": "Cloudflare Pages",
+      "url": "https://pages.cloudflare.com/",
+      "key": "pages.cloudflare.com",
+      "category": "dev",
+      "tags": [
+        "hosting",
+        "free-tier",
+        "static"
+      ],
+      "desc": "免费静态网站托管与 CDN",
+      "added": "2026-10-11",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "dev-032",
+      "name": "Netlify",
+      "url": "https://www.netlify.com/",
+      "key": "netlify.com",
+      "category": "dev",
+      "tags": [
+        "hosting",
+        "free-tier",
+        "static"
+      ],
+      "desc": "免费额度的网站部署平台",
+      "added": "2026-10-11",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "dev-033",
+      "name": "roadmap.sh",
+      "url": "https://roadmap.sh/",
+      "key": "roadmap.sh",
+      "category": "dev",
+      "tags": [
+        "roadmap",
+        "learning",
+        "oss"
+      ],
+      "desc": "各技术方向的学习路线图",
+      "added": "2026-10-11",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "dev-034",
+      "name": "Pro Git 中文版",
+      "url": "https://git-scm.com/book/zh/v2",
+      "key": "git-scm.com/book/zh/v2",
+      "category": "dev",
+      "tags": [
+        "git",
+        "zh",
+        "ebook"
+      ],
+      "desc": "官方免费 Git 教程中文版",
+      "added": "2026-10-11",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "dev-035",
+      "name": "Learn Git Branching",
+      "url": "https://learngitbranching.js.org/",
+      "key": "learngitbranching.js.org",
+      "category": "dev",
+      "tags": [
+        "git",
+        "interactive",
+        "zh"
+      ],
+      "desc": "可视化互动学 Git 分支",
+      "added": "2026-10-11",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "dev-036",
+      "name": "Vercel",
+      "url": "https://vercel.com/",
+      "key": "vercel.com",
+      "category": "dev",
+      "tags": [
+        "hosting",
+        "free-tier",
+        "static"
+      ],
+      "desc": "免费额度的前端部署平台",
+      "added": "2026-10-11",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "dev-037",
+      "name": "VS Code",
+      "url": "https://code.visualstudio.com/",
+      "key": "code.visualstudio.com",
+      "category": "dev",
+      "tags": [
+        "editor",
+        "oss",
+        "ide"
+      ],
+      "desc": "免费开源的代码编辑器",
+      "added": "2026-10-11",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "dev-038",
+      "name": "菜鸟教程",
+      "url": "https://www.runoob.com/",
+      "key": "runoob.com",
+      "category": "dev",
+      "tags": [
+        "zh",
+        "tutorial",
+        "beginner"
+      ],
+      "desc": "各种编程语言的中文入门",
+      "added": "2026-10-11",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "dev-039",
+      "name": "廖雪峰的官方网站",
+      "url": "https://liaoxuefeng.com/",
+      "key": "liaoxuefeng.com",
+      "category": "dev",
+      "tags": [
+        "zh",
+        "tutorial",
+        "python"
+      ],
+      "desc": "Python、Git 等中文教程",
+      "added": "2026-10-11",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "dev-040",
+      "name": "Exercism",
+      "url": "https://exercism.org/",
+      "key": "exercism.org",
+      "category": "dev",
+      "tags": [
+        "practice",
+        "oss",
+        "mentoring"
+      ],
+      "desc": "七十多种语言的练习与导师点评",
+      "added": "2026-10-11",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "dev-041",
+      "name": "Gitee",
+      "url": "https://gitee.com/",
+      "key": "gitee.com",
+      "category": "dev",
+      "tags": [
+        "git",
+        "zh",
+        "hosting"
+      ],
+      "desc": "国内代码托管平台",
+      "added": "2026-10-11",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "dev-042",
+      "name": "Can I use",
+      "url": "https://caniuse.com/",
+      "key": "caniuse.com",
+      "category": "dev",
+      "tags": [
+        "web",
+        "compat",
+        "reference"
+      ],
+      "desc": "查浏览器兼容性",
+      "added": "2026-10-11",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "dev-043",
+      "name": "regex101",
+      "url": "https://regex101.com/",
+      "key": "regex101.com",
+      "category": "dev",
+      "tags": [
+        "regex",
+        "tool",
+        "debug"
+      ],
+      "desc": "在线调试正则表达式",
+      "added": "2026-10-11",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "dev-044",
+      "name": "Compiler Explorer",
+      "url": "https://godbolt.org/",
+      "key": "godbolt.org",
+      "category": "dev",
+      "tags": [
+        "compiler",
+        "tool",
+        "asm"
+      ],
+      "desc": "在线看代码编译成的汇编",
+      "added": "2026-10-11",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "dev-045",
+      "name": "CodePen",
+      "url": "https://codepen.io/",
+      "key": "codepen.io",
+      "category": "dev",
+      "tags": [
+        "web",
+        "playground",
+        "frontend"
+      ],
+      "desc": "在线写前端小样",
+      "added": "2026-10-11",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "dev-046",
+      "name": "public-apis",
+      "url": "https://github.com/public-apis/public-apis",
+      "key": "github.com/public-apis/public-apis",
+      "category": "dev",
+      "tags": [
+        "api",
+        "list",
+        "oss"
+      ],
+      "desc": "免费公共 API 大全",
+      "added": "2026-10-11",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "dev-047",
+      "name": "free-for.dev",
+      "url": "https://free-for.dev/",
+      "key": "free-for.dev",
+      "category": "dev",
+      "tags": [
+        "free-tier",
+        "list",
+        "saas"
+      ],
+      "desc": "开发者免费服务清单",
+      "added": "2026-10-11",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "dev-048",
+      "name": "Eloquent JavaScript",
+      "url": "https://eloquentjavascript.net/",
+      "key": "eloquentjavascript.net",
+      "category": "dev",
+      "tags": [
+        "javascript",
+        "ebook",
+        "en"
+      ],
+      "desc": "经典 JS 入门书，在线免费",
+      "added": "2026-10-11",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "dev-049",
+      "name": "现代 JavaScript 教程",
+      "url": "https://zh.javascript.info/",
+      "key": "zh.javascript.info",
+      "category": "dev",
+      "tags": [
+        "javascript",
+        "zh",
+        "tutorial"
+      ],
+      "desc": "从入门到进阶的 JS 中文教程",
+      "added": "2026-10-11",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "dev-050",
+      "name": "Python 官方文档中文版",
+      "url": "https://docs.python.org/zh-cn/3/",
+      "key": "docs.python.org/zh-cn/3",
+      "category": "dev",
+      "tags": [
+        "python",
+        "zh",
+        "docs"
+      ],
+      "desc": "官方 Python 文档简体中文版",
+      "added": "2026-10-11",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "dev-051",
+      "name": "Rust 程序设计语言",
+      "url": "https://kaisery.github.io/trpl-zh-cn/",
+      "key": "kaisery.github.io/trpl-zh-cn",
+      "category": "dev",
+      "tags": [
+        "rust",
+        "zh",
+        "ebook"
+      ],
+      "desc": "Rust 官方书中文版",
+      "added": "2026-10-11",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "dev-052",
+      "name": "tldr pages",
+      "url": "https://tldr.sh/",
+      "key": "tldr.sh",
+      "category": "dev",
+      "tags": [
+        "cli",
+        "cheatsheet",
+        "oss"
+      ],
+      "desc": "命令行工具的简明示例",
+      "added": "2026-10-11",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "dev-053",
+      "name": "explainshell",
+      "url": "https://explainshell.com/",
+      "key": "explainshell.com",
+      "category": "dev",
+      "tags": [
+        "cli",
+        "shell",
+        "tool"
+      ],
+      "desc": "逐段解释 shell 命令",
+      "added": "2026-10-11",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "dev-054",
+      "name": "Learn X in Y minutes",
+      "url": "https://learnxinyminutes.com/",
+      "key": "learnxinyminutes.com",
+      "category": "dev",
+      "tags": [
+        "cheatsheet",
+        "languages",
+        "multi"
+      ],
+      "desc": "几分钟速览一门语言",
+      "added": "2026-10-11",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "dev-055",
+      "name": "Hoppscotch",
+      "url": "https://hoppscotch.io/",
+      "key": "hoppscotch.io",
+      "category": "dev",
+      "tags": [
+        "api",
+        "oss",
+        "tool"
+      ],
+      "desc": "开源在线 API 调试工具",
+      "added": "2026-10-11",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "dev-056",
+      "name": "draw.io",
+      "url": "https://www.drawio.com/",
+      "key": "drawio.com",
+      "category": "dev",
+      "tags": [
+        "diagram",
+        "oss",
+        "tool"
+      ],
+      "desc": "免费开源的流程图工具",
+      "added": "2026-10-11",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "dev-057",
+      "name": "Mermaid Live",
+      "url": "https://mermaid.live/",
+      "key": "mermaid.live",
+      "category": "dev",
+      "tags": [
+        "diagram",
+        "text",
+        "tool"
+      ],
+      "desc": "用文字写图表",
+      "added": "2026-10-11",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "dev-058",
+      "name": "Let's Encrypt",
+      "url": "https://letsencrypt.org/",
+      "key": "letsencrypt.org",
+      "category": "dev",
+      "tags": [
+        "https",
+        "certificate",
+        "nonprofit"
+      ],
+      "desc": "免费 HTTPS 证书",
+      "added": "2026-10-11",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "dev-059",
+      "name": "VisuAlgo",
+      "url": "https://visualgo.net/zh",
+      "key": "visualgo.net/zh",
+      "category": "dev",
+      "tags": [
+        "algorithm",
+        "visual",
+        "zh"
+      ],
+      "desc": "数据结构与算法动画演示",
+      "added": "2026-10-11",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "dev-060",
+      "name": "Hello 算法",
+      "url": "https://www.hello-algo.com/",
+      "key": "hello-algo.com",
+      "category": "dev",
+      "tags": [
+        "algorithm",
+        "zh",
+        "ebook"
+      ],
+      "desc": "动画图解的开源算法书",
+      "added": "2026-10-11",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "dev-061",
+      "name": "OI Wiki",
+      "url": "https://oi-wiki.org/",
+      "key": "oi-wiki.org",
+      "category": "dev",
+      "tags": [
+        "algorithm",
+        "zh",
+        "competitive"
+      ],
+      "desc": "竞赛编程知识百科",
+      "added": "2026-10-11",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "dev-062",
+      "name": "Python Tutor",
+      "url": "https://pythontutor.com/",
+      "key": "pythontutor.com",
+      "category": "dev",
+      "tags": [
+        "python",
+        "visual",
+        "learning"
+      ],
+      "desc": "逐行可视化代码执行",
+      "added": "2026-10-11",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "music-001",
+      "name": "IMSLP",
+      "url": "https://imslp.org",
+      "key": "imslp.org",
+      "category": "music",
+      "tags": [
+        "sheet-music",
+        "public-domain"
+      ],
+      "desc": "最大的公版乐谱库，古典曲目几乎全在",
+      "added": "2026-10-10",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "music-002",
+      "name": "Musopen",
+      "url": "https://musopen.org",
+      "key": "musopen.org",
+      "category": "music",
+      "tags": [
+        "recordings",
+        "public-domain"
+      ],
+      "desc": "无版权古典录音和乐谱，可免费下载",
+      "added": "2026-10-10",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "music-003",
+      "name": "Free Music Archive",
+      "url": "https://freemusicarchive.org",
+      "key": "freemusicarchive.org",
+      "category": "music",
+      "tags": [
+        "cc",
+        "indie"
+      ],
+      "desc": "按 CC 协议授权的独立音乐库",
+      "added": "2026-10-10",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "music-004",
+      "name": "Incompetech",
+      "url": "https://incompetech.com/music/royalty-free/",
+      "key": "incompetech.com/music/royalty-free",
+      "category": "music",
+      "tags": [
+        "bgm",
+        "cc-by"
+      ],
+      "desc": "Kevin MacLeod 的免版税配乐，署名即可用",
+      "added": "2026-10-10",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "music-005",
+      "name": "ccMixter",
+      "url": "https://ccmixter.org",
+      "key": "ccmixter.org",
+      "category": "music",
+      "tags": [
+        "cc",
+        "remix"
+      ],
+      "desc": "CC 授权的人声、伴奏和混音素材",
+      "added": "2026-10-10",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "music-006",
+      "name": "Freesound",
+      "url": "https://freesound.org/",
+      "key": "freesound.org",
+      "category": "music",
+      "tags": [
+        "sfx",
+        "cc",
+        "cc0"
+      ],
+      "desc": "数十万条 CC 授权音效",
+      "added": "2026-10-11",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "music-007",
+      "name": "Mutopia Project",
+      "url": "https://www.mutopiaproject.org/",
+      "key": "mutopiaproject.org",
+      "category": "music",
+      "tags": [
+        "sheet-music",
+        "public-domain",
+        "pdf"
+      ],
+      "desc": "公版古典乐谱免费下载",
+      "added": "2026-10-11",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "music-009",
+      "name": "MuseScore",
+      "url": "https://musescore.org/",
+      "key": "musescore.org",
+      "category": "music",
+      "tags": [
+        "notation",
+        "oss",
+        "software"
+      ],
+      "desc": "开源免费的打谱软件",
+      "added": "2026-10-11",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "music-010",
+      "name": "Pixabay 音乐",
+      "url": "https://pixabay.com/music/",
+      "key": "pixabay.com/music",
+      "category": "music",
+      "tags": [
+        "music",
+        "royalty-free",
+        "sfx"
+      ],
+      "desc": "29 万首免版税配乐",
+      "added": "2026-10-11",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "music-011",
+      "name": "Audacity",
+      "url": "https://www.audacityteam.org/",
+      "key": "audacityteam.org",
+      "category": "music",
+      "tags": [
+        "audio",
+        "editor",
+        "oss"
+      ],
+      "desc": "免费开源音频编辑器",
+      "added": "2026-10-11",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "music-012",
+      "name": "LMMS",
+      "url": "https://lmms.io/",
+      "key": "lmms.io",
+      "category": "music",
+      "tags": [
+        "daw",
+        "oss",
+        "production"
+      ],
+      "desc": "免费开源编曲软件",
+      "added": "2026-10-11",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "music-013",
+      "name": "Surge XT",
+      "url": "https://surge-synthesizer.github.io/",
+      "key": "surge-synthesizer.github.io",
+      "category": "music",
+      "tags": [
+        "synth",
+        "oss",
+        "plugin"
+      ],
+      "desc": "开源免费合成器插件",
+      "added": "2026-10-11",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "music-014",
+      "name": "CPDL 合唱公版乐谱库",
+      "url": "https://www.cpdl.org/",
+      "key": "cpdl.org",
+      "category": "music",
+      "tags": [
+        "sheet-music",
+        "choral",
+        "public-domain"
+      ],
+      "desc": "免费合唱乐谱",
+      "added": "2026-10-11",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "music-015",
+      "name": "Open Goldberg Variations",
+      "url": "https://www.opengoldbergvariations.org/",
+      "key": "opengoldbergvariations.org",
+      "category": "music",
+      "tags": [
+        "bach",
+        "public-domain",
+        "recording"
+      ],
+      "desc": "公版的哥德堡变奏曲录音与乐谱",
+      "added": "2026-10-11",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "music-016",
+      "name": "Live Music Archive",
+      "url": "https://archive.org/details/etree",
+      "key": "archive.org/details/etree",
+      "category": "music",
+      "tags": [
+        "live",
+        "recordings",
+        "archive"
+      ],
+      "desc": "允许传播的现场演出录音",
+      "added": "2026-10-11",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "music-017",
+      "name": "Jamendo Music",
+      "url": "https://www.jamendo.com/",
+      "key": "jamendo.com",
+      "category": "music",
+      "tags": [
+        "cc",
+        "indie",
+        "streaming"
+      ],
+      "desc": "CC 授权的独立音乐",
+      "added": "2026-10-11",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "music-018",
+      "name": "Chosic 免费音乐",
+      "url": "https://www.chosic.com/free-music/all/",
+      "key": "chosic.com/free-music/all",
+      "category": "music",
+      "tags": [
+        "bgm",
+        "cc",
+        "royalty-free"
+      ],
+      "desc": "按情绪分类的免版税配乐",
+      "added": "2026-10-11",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "music-019",
+      "name": "Mixkit 音乐",
+      "url": "https://mixkit.co/free-stock-music/",
+      "key": "mixkit.co/free-stock-music",
+      "category": "music",
+      "tags": [
+        "bgm",
+        "royalty-free",
+        "sfx"
+      ],
+      "desc": "免署名的免费配乐与音效",
+      "added": "2026-10-11",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "music-020",
+      "name": "Sonniss GDC 音效包",
+      "url": "https://sonniss.com/gameaudiogdc",
+      "key": "sonniss.com/gameaudiogdc",
+      "category": "music",
+      "tags": [
+        "sfx",
+        "royalty-free",
+        "game"
+      ],
+      "desc": "每年免费放出的专业游戏音效",
+      "added": "2026-10-11",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "music-021",
+      "name": "BBC Sound Effects",
+      "url": "https://sound-effects.bbcrewind.co.uk/",
+      "key": "sound-effects.bbcrewind.co.uk",
+      "category": "music",
+      "tags": [
+        "sfx",
+        "archive",
+        "education"
+      ],
+      "desc": "BBC 档案音效，个人与教育可用",
+      "added": "2026-10-11",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "music-022",
+      "name": "musictheory.net",
+      "url": "https://www.musictheory.net/",
+      "key": "musictheory.net",
+      "category": "music",
+      "tags": [
+        "theory",
+        "lessons",
+        "interactive"
+      ],
+      "desc": "互动乐理课与练耳",
+      "added": "2026-10-11",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "music-023",
+      "name": "Teoria",
+      "url": "https://www.teoria.com/",
+      "key": "teoria.com",
+      "category": "music",
+      "tags": [
+        "theory",
+        "ear-training",
+        "multi"
+      ],
+      "desc": "乐理教程与听力训练",
+      "added": "2026-10-11",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "music-024",
+      "name": "Chrome Music Lab",
+      "url": "https://musiclab.chromeexperiments.com/",
+      "key": "musiclab.chromeexperiments.com",
+      "category": "music",
+      "tags": [
+        "interactive",
+        "learning",
+        "kids"
+      ],
+      "desc": "浏览器里玩音乐实验",
+      "added": "2026-10-11",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "music-025",
+      "name": "Online Sequencer",
+      "url": "https://onlinesequencer.net/",
+      "key": "onlinesequencer.net",
+      "category": "music",
+      "tags": [
+        "daw",
+        "browser",
+        "midi"
+      ],
+      "desc": "浏览器里写旋律",
+      "added": "2026-10-11",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "music-026",
+      "name": "BandLab",
+      "url": "https://www.bandlab.com/",
+      "key": "bandlab.com",
+      "category": "music",
+      "tags": [
+        "daw",
+        "browser",
+        "free"
+      ],
+      "desc": "免费的在线编曲与混音",
+      "added": "2026-10-11",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "music-027",
+      "name": "National Jukebox",
+      "url": "https://www.loc.gov/collections/national-jukebox/",
+      "key": "loc.gov/collections/national-jukebox",
+      "category": "music",
+      "tags": [
+        "historical",
+        "recordings",
+        "archive"
+      ],
+      "desc": "国会图书馆早期唱片录音",
+      "added": "2026-10-11",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "music-028",
+      "name": "SoundBible",
+      "url": "https://soundbible.com/",
+      "key": "soundbible.com",
+      "category": "music",
+      "tags": [
+        "sfx",
+        "cc",
+        "public-domain"
+      ],
+      "desc": "免费音效下载",
+      "added": "2026-10-11",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "music-029",
+      "name": "Pianobook",
+      "url": "https://www.pianobook.co.uk/",
+      "key": "pianobook.co.uk",
+      "category": "music",
+      "tags": [
+        "samples",
+        "instruments",
+        "free"
+      ],
+      "desc": "音乐人分享的免费采样乐器",
+      "added": "2026-10-11",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "music-030",
+      "name": "Signal",
+      "url": "https://signal.vercel.app/",
+      "key": "signal.vercel.app",
+      "category": "music",
+      "tags": [
+        "midi",
+        "browser",
+        "oss"
+      ],
+      "desc": "开源在线 MIDI 编辑器",
+      "added": "2026-10-11",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "music-031",
+      "name": "Radio Garden",
+      "url": "https://radio.garden/",
+      "key": "radio.garden",
+      "category": "music",
+      "tags": [
+        "radio",
+        "live",
+        "global"
+      ],
+      "desc": "转动地球听各地电台",
+      "added": "2026-10-11",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "music-032",
+      "name": "Open Music Theory",
+      "url": "https://viva.pressbooks.pub/openmusictheory/",
+      "key": "viva.pressbooks.pub/openmusictheory",
+      "category": "music",
+      "tags": [
+        "theory",
+        "textbook",
+        "oer"
+      ],
+      "desc": "开放乐理教材",
+      "added": "2026-10-11",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "music-033",
+      "name": "Hydrogen",
+      "url": "https://hydrogen-music.org/",
+      "key": "hydrogen-music.org",
+      "category": "music",
+      "tags": [
+        "drum",
+        "oss",
+        "software"
+      ],
+      "desc": "开源鼓机软件",
+      "added": "2026-10-11",
+      "last_checked": "2026-10-12",
+      "status": "down: URLError"
+    },
+    {
+      "id": "games-001",
+      "name": "Lichess",
+      "url": "https://lichess.org",
+      "key": "lichess.org",
+      "category": "games",
+      "tags": [
+        "chess",
+        "open-source"
+      ],
+      "desc": "完全免费、无广告的开源国际象棋",
+      "added": "2026-10-10",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "games-002",
+      "name": "itch.io 免费游戏",
+      "url": "https://itch.io/games/free",
+      "key": "itch.io/games/free",
+      "category": "games",
+      "tags": [
+        "indie",
+        "free"
+      ],
+      "desc": "独立开发者发布的免费游戏",
+      "added": "2026-10-10",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "games-003",
+      "name": "Battle for Wesnoth",
+      "url": "https://www.wesnoth.org",
+      "key": "wesnoth.org",
+      "category": "games",
+      "tags": [
+        "strategy",
+        "open-source"
+      ],
+      "desc": "开源回合制奇幻战棋",
+      "added": "2026-10-10",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "games-004",
+      "name": "0 A.D.",
+      "url": "https://play0ad.com",
+      "key": "play0ad.com",
+      "category": "games",
+      "tags": [
+        "rts",
+        "open-source"
+      ],
+      "desc": "开源古代文明即时战略",
+      "added": "2026-10-10",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "games-005",
+      "name": "OpenTTD",
+      "url": "https://www.openttd.org",
+      "key": "openttd.org",
+      "category": "games",
+      "tags": [
+        "sim",
+        "open-source"
+      ],
+      "desc": "开源运输大亨模拟经营",
+      "added": "2026-10-10",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "games-006",
+      "name": "SuperTuxKart",
+      "url": "https://supertuxkart.net/",
+      "key": "supertuxkart.net",
+      "category": "games",
+      "tags": [
+        "racing",
+        "oss",
+        "multiplayer"
+      ],
+      "desc": "开源卡丁车竞速游戏",
+      "added": "2026-10-11",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "games-007",
+      "name": "Luanti（原 Minetest）",
+      "url": "https://www.luanti.org/",
+      "key": "luanti.org",
+      "category": "games",
+      "tags": [
+        "sandbox",
+        "oss",
+        "voxel"
+      ],
+      "desc": "开源体素沙盒建造游戏",
+      "added": "2026-10-11",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "games-008",
+      "name": "OpenRA",
+      "url": "https://www.openra.net/",
+      "key": "openra.net",
+      "category": "games",
+      "tags": [
+        "rts",
+        "oss",
+        "classic"
+      ],
+      "desc": "开源重制红警等经典即时战略",
+      "added": "2026-10-11",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "games-009",
+      "name": "Freeciv",
+      "url": "https://www.freeciv.org/",
+      "key": "freeciv.org",
+      "category": "games",
+      "tags": [
+        "strategy",
+        "oss",
+        "turn-based"
+      ],
+      "desc": "开源回合制文明策略游戏",
+      "added": "2026-10-11",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "games-010",
+      "name": "Mindustry",
+      "url": "https://mindustrygame.github.io/",
+      "key": "mindustrygame.github.io",
+      "category": "games",
+      "tags": [
+        "tower-defense",
+        "oss",
+        "factory"
+      ],
+      "desc": "开源工厂塔防游戏",
+      "added": "2026-10-11",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "games-011",
+      "name": "SuperTux",
+      "url": "https://www.supertux.org/",
+      "key": "supertux.org",
+      "category": "games",
+      "tags": [
+        "platformer",
+        "oss",
+        "classic"
+      ],
+      "desc": "开源横版跳跃游戏",
+      "added": "2026-10-11",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "games-012",
+      "name": "Xonotic",
+      "url": "https://xonotic.org/",
+      "key": "xonotic.org",
+      "category": "games",
+      "tags": [
+        "fps",
+        "oss",
+        "multiplayer"
+      ],
+      "desc": "开源竞技射击游戏",
+      "added": "2026-10-11",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "games-013",
+      "name": "Endless Sky",
+      "url": "https://endless-sky.github.io/",
+      "key": "endless-sky.github.io",
+      "category": "games",
+      "tags": [
+        "space",
+        "oss",
+        "trading"
+      ],
+      "desc": "开源太空贸易与探索",
+      "added": "2026-10-11",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "games-014",
+      "name": "Cataclysm: DDA",
+      "url": "https://cataclysmdda.org/",
+      "key": "cataclysmdda.org",
+      "category": "games",
+      "tags": [
+        "roguelike",
+        "oss",
+        "survival"
+      ],
+      "desc": "开源末日生存 roguelike",
+      "added": "2026-10-11",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "games-015",
+      "name": "Veloren",
+      "url": "https://veloren.net/",
+      "key": "veloren.net",
+      "category": "games",
+      "tags": [
+        "rpg",
+        "oss",
+        "voxel"
+      ],
+      "desc": "开源体素多人 RPG",
+      "added": "2026-10-11",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "games-016",
+      "name": "The Dark Mod",
+      "url": "https://www.thedarkmod.com/",
+      "key": "thedarkmod.com",
+      "category": "games",
+      "tags": [
+        "stealth",
+        "oss",
+        "fps"
+      ],
+      "desc": "开源潜行游戏",
+      "added": "2026-10-11",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "games-017",
+      "name": "Unciv",
+      "url": "https://github.com/yairm210/Unciv",
+      "key": "github.com/yairm210/unciv",
+      "category": "games",
+      "tags": [
+        "strategy",
+        "oss",
+        "mobile"
+      ],
+      "desc": "开源文明 5 风格策略游戏",
+      "added": "2026-10-11",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "games-018",
+      "name": "FreeCol",
+      "url": "https://www.freecol.org/",
+      "key": "freecol.org",
+      "category": "games",
+      "tags": [
+        "strategy",
+        "oss",
+        "colonization"
+      ],
+      "desc": "开源殖民帝国策略",
+      "added": "2026-10-11",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "games-019",
+      "name": "Hedgewars",
+      "url": "https://www.hedgewars.org/",
+      "key": "hedgewars.org",
+      "category": "games",
+      "tags": [
+        "artillery",
+        "oss",
+        "party"
+      ],
+      "desc": "开源刺猬版百战天虫",
+      "added": "2026-10-11",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "games-020",
+      "name": "DDraceNetwork",
+      "url": "https://ddnet.org/",
+      "key": "ddnet.org",
+      "category": "games",
+      "tags": [
+        "platformer",
+        "oss",
+        "multiplayer"
+      ],
+      "desc": "开源多人合作闯关",
+      "added": "2026-10-11",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "games-021",
+      "name": "Warzone 2100",
+      "url": "https://wz2100.net/",
+      "key": "wz2100.net",
+      "category": "games",
+      "tags": [
+        "rts",
+        "oss",
+        "3d"
+      ],
+      "desc": "开源 3D 即时战略",
+      "added": "2026-10-11",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "games-022",
+      "name": "Simon Tatham's Puzzles",
+      "url": "https://www.chiark.greenend.org.uk/~sgtatham/puzzles/",
+      "key": "chiark.greenend.org.uk/~sgtatham/puzzles",
+      "category": "games",
+      "tags": [
+        "puzzle",
+        "oss",
+        "browser"
+      ],
+      "desc": "四十个经典逻辑谜题，浏览器即玩",
+      "added": "2026-10-11",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "games-023",
+      "name": "OGS 在线围棋",
+      "url": "https://online-go.com/",
+      "key": "online-go.com",
+      "category": "games",
+      "tags": [
+        "go",
+        "board",
+        "free"
+      ],
+      "desc": "免费在线围棋对弈",
+      "added": "2026-10-11",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "games-024",
+      "name": "Freedoom",
+      "url": "https://freedoom.github.io/",
+      "key": "freedoom.github.io",
+      "category": "games",
+      "tags": [
+        "fps",
+        "oss",
+        "classic"
+      ],
+      "desc": "开源免费的 Doom 关卡与素材",
+      "added": "2026-10-11",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "games-025",
+      "name": "Zero-K",
+      "url": "https://zero-k.info/",
+      "key": "zero-k.info",
+      "category": "games",
+      "tags": [
+        "rts",
+        "oss",
+        "multiplayer"
+      ],
+      "desc": "开源大规模即时战略",
+      "added": "2026-10-11",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "games-026",
+      "name": "Beyond All Reason",
+      "url": "https://www.beyondallreason.info/",
+      "key": "beyondallreason.info",
+      "category": "games",
+      "tags": [
+        "rts",
+        "oss",
+        "multiplayer"
+      ],
+      "desc": "开源大型即时战略",
+      "added": "2026-10-11",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "games-027",
+      "name": "NetHack",
+      "url": "https://www.nethack.org/",
+      "key": "nethack.org",
+      "category": "games",
+      "tags": [
+        "roguelike",
+        "classic",
+        "oss"
+      ],
+      "desc": "经典地牢探险 roguelike",
+      "added": "2026-10-11",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "games-028",
+      "name": "Flare",
+      "url": "https://flarerpg.org/",
+      "key": "flarerpg.org",
+      "category": "games",
+      "tags": [
+        "arpg",
+        "oss",
+        "2d"
+      ],
+      "desc": "开源单机动作 RPG",
+      "added": "2026-10-11",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "games-029",
+      "name": "DOS 游戏在线玩",
+      "url": "https://archive.org/details/softwarelibrary_msdos_games",
+      "key": "archive.org/details/softwarelibrary_msdos_games",
+      "category": "games",
+      "tags": [
+        "retro",
+        "browser",
+        "archive"
+      ],
+      "desc": "互联网档案馆的 DOS 老游戏",
+      "added": "2026-10-11",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "games-030",
+      "name": "Godot 引擎",
+      "url": "https://godotengine.org/",
+      "key": "godotengine.org",
+      "category": "games",
+      "tags": [
+        "engine",
+        "oss",
+        "gamedev"
+      ],
+      "desc": "开源免费的游戏引擎",
+      "added": "2026-10-11",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "games-031",
+      "name": "Kenney",
+      "url": "https://kenney.nl/",
+      "key": "kenney.nl",
+      "category": "games",
+      "tags": [
+        "assets",
+        "cc0",
+        "gamedev"
+      ],
+      "desc": "CC0 游戏美术与音效素材",
+      "added": "2026-10-11",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "games-032",
+      "name": "OpenGameArt",
+      "url": "https://opengameart.org/",
+      "key": "opengameart.org",
+      "category": "games",
+      "tags": [
+        "assets",
+        "cc",
+        "gamedev"
+      ],
+      "desc": "开放授权的游戏素材库",
+      "added": "2026-10-11",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "games-033",
+      "name": "A Dark Room",
+      "url": "https://adarkroom.doublespeakgames.com/",
+      "key": "adarkroom.doublespeakgames.com",
+      "category": "games",
+      "tags": [
+        "text",
+        "browser",
+        "indie"
+      ],
+      "desc": "极简文字冒险，网页即玩",
+      "added": "2026-10-11",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "games-034",
+      "name": "Universal Paperclips",
+      "url": "https://www.decisionproblem.com/paperclips/",
+      "key": "decisionproblem.com/paperclips",
+      "category": "games",
+      "tags": [
+        "idle",
+        "browser",
+        "indie"
+      ],
+      "desc": "回形针放置游戏",
+      "added": "2026-10-11",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "games-035",
+      "name": "Neverball",
+      "url": "https://neverball.org/",
+      "key": "neverball.org",
+      "category": "games",
+      "tags": [
+        "puzzle",
+        "oss",
+        "3d"
+      ],
+      "desc": "开源 3D 滚球闯关",
+      "added": "2026-10-11",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "games-036",
+      "name": "Pixel Dungeon",
+      "url": "https://pixeldungeon.watabou.ru/",
+      "key": "pixeldungeon.watabou.ru",
+      "category": "games",
+      "tags": [
+        "roguelike",
+        "oss",
+        "pixel"
+      ],
+      "desc": "开源像素地牢 roguelike",
+      "added": "2026-10-11",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "history-001",
+      "name": "World History Encyclopedia",
+      "url": "https://www.worldhistory.org",
+      "key": "worldhistory.org",
+      "category": "history",
+      "tags": [
+        "encyclopedia",
+        "en"
+      ],
+      "desc": "非营利世界史百科，配地图和时间线",
+      "added": "2026-10-10",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "history-002",
+      "name": "Smarthistory",
+      "url": "https://smarthistory.org",
+      "key": "smarthistory.org",
+      "category": "history",
+      "tags": [
+        "art-history",
+        "video"
+      ],
+      "desc": "艺术史家写的艺术与文明史，有视频",
+      "added": "2026-10-10",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "history-003",
+      "name": "Europeana",
+      "url": "https://www.europeana.eu",
+      "key": "europeana.eu",
+      "category": "history",
+      "tags": [
+        "archive",
+        "museum"
+      ],
+      "desc": "欧洲各馆数字化的文物、手稿和照片",
+      "added": "2026-10-10",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "history-004",
+      "name": "Library of Congress 数字馆藏",
+      "url": "https://www.loc.gov/collections/",
+      "key": "loc.gov/collections",
+      "category": "history",
+      "tags": [
+        "archive",
+        "en"
+      ],
+      "desc": "美国国会图书馆的地图、照片和档案",
+      "added": "2026-10-10",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "history-005",
+      "name": "中华古籍智慧化服务平台",
+      "url": "https://guji.nlc.cn/nation",
+      "key": "guji.nlc.cn/nation",
+      "category": "history",
+      "tags": [
+        "zh",
+        "manuscript"
+      ],
+      "desc": "国家图书馆古籍影像与全文，免登录在线读",
+      "added": "2026-10-10",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "history-006",
+      "name": "故宫博物院数字文物库",
+      "url": "https://digicol.dpm.org.cn/",
+      "key": "digicol.dpm.org.cn",
+      "category": "history",
+      "tags": [
+        "museum",
+        "zh",
+        "china"
+      ],
+      "desc": "故宫数万件文物高清影像",
+      "added": "2026-10-11",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "history-007",
+      "name": "台北故宫 Open Data",
+      "url": "https://digitalarchive.npm.gov.tw/",
+      "key": "digitalarchive.npm.gov.tw",
+      "category": "history",
+      "tags": [
+        "museum",
+        "zh",
+        "open-data"
+      ],
+      "desc": "台北故宫文物图像开放下载",
+      "added": "2026-10-11",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "history-008",
+      "name": "数字敦煌",
+      "url": "https://www.e-dunhuang.com/",
+      "key": "e-dunhuang.com",
+      "category": "history",
+      "tags": [
+        "dunhuang",
+        "zh",
+        "murals"
+      ],
+      "desc": "莫高窟洞窟壁画高清全景",
+      "added": "2026-10-11",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "history-009",
+      "name": "国际敦煌项目 IDP",
+      "url": "https://idp.bl.uk/",
+      "key": "idp.bl.uk",
+      "category": "history",
+      "tags": [
+        "dunhuang",
+        "manuscripts",
+        "en"
+      ],
+      "desc": "敦煌写本与丝路文物数字化",
+      "added": "2026-10-11",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "history-010",
+      "name": "Smithsonian Open Access",
+      "url": "https://www.si.edu/openaccess",
+      "key": "si.edu/openaccess",
+      "category": "history",
+      "tags": [
+        "museum",
+        "cc0",
+        "en"
+      ],
+      "desc": "史密森尼 520 万件 CC0 藏品",
+      "added": "2026-10-11",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "history-011",
+      "name": "Avalon Project",
+      "url": "https://avalon.law.yale.edu/",
+      "key": "avalon.law.yale.edu",
+      "category": "history",
+      "tags": [
+        "documents",
+        "law",
+        "en"
+      ],
+      "desc": "耶鲁法学院整理的历史文献",
+      "added": "2026-10-11",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "history-012",
+      "name": "Internet History Sourcebooks",
+      "url": "https://sourcebooks.fordham.edu/",
+      "key": "sourcebooks.fordham.edu",
+      "category": "history",
+      "tags": [
+        "sources",
+        "en",
+        "primary"
+      ],
+      "desc": "福特汉姆大学的史料原文集",
+      "added": "2026-10-11",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "history-013",
+      "name": "David Rumsey Map Collection",
+      "url": "https://www.davidrumsey.com/",
+      "key": "davidrumsey.com",
+      "category": "history",
+      "tags": [
+        "maps",
+        "archive",
+        "en"
+      ],
+      "desc": "十几万幅高清古地图",
+      "added": "2026-10-11",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "history-014",
+      "name": "Old Maps Online",
+      "url": "https://www.oldmapsonline.org/",
+      "key": "oldmapsonline.org",
+      "category": "history",
+      "tags": [
+        "maps",
+        "search",
+        "multi"
+      ],
+      "desc": "全球古地图检索",
+      "added": "2026-10-11",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "history-015",
+      "name": "CBDB 中国历代人物传记资料库",
+      "url": "https://projects.iq.harvard.edu/cbdb",
+      "key": "projects.iq.harvard.edu/cbdb",
+      "category": "history",
+      "tags": [
+        "zh",
+        "biography",
+        "database"
+      ],
+      "desc": "五十多万位古代人物的传记数据",
+      "added": "2026-10-11",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "history-016",
+      "name": "British Museum Collection",
+      "url": "https://www.britishmuseum.org/collection",
+      "key": "britishmuseum.org/collection",
+      "category": "history",
+      "tags": [
+        "museum",
+        "en",
+        "artifacts"
+      ],
+      "desc": "大英博物馆藏品在线",
+      "added": "2026-10-11",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "history-017",
+      "name": "DPLA 美国数字公共图书馆",
+      "url": "https://dp.la/",
+      "key": "dp.la",
+      "category": "history",
+      "tags": [
+        "archive",
+        "en",
+        "library"
+      ],
+      "desc": "美国各馆数字藏品",
+      "added": "2026-10-11",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "history-018",
+      "name": "Trove",
+      "url": "https://trove.nla.gov.au/",
+      "key": "trove.nla.gov.au",
+      "category": "history",
+      "tags": [
+        "newspapers",
+        "archive",
+        "en"
+      ],
+      "desc": "澳洲国图的报纸与档案",
+      "added": "2026-10-11",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "history-019",
+      "name": "Chronicling America",
+      "url": "https://chroniclingamerica.loc.gov/",
+      "key": "chroniclingamerica.loc.gov",
+      "category": "history",
+      "tags": [
+        "newspapers",
+        "en",
+        "archive"
+      ],
+      "desc": "美国历史报纸全文",
+      "added": "2026-10-11",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "history-020",
+      "name": "US National Archives",
+      "url": "https://www.archives.gov/",
+      "key": "archives.gov",
+      "category": "history",
+      "tags": [
+        "archives",
+        "en",
+        "government"
+      ],
+      "desc": "美国国家档案馆",
+      "added": "2026-10-11",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "history-021",
+      "name": "UK National Archives",
+      "url": "https://www.nationalarchives.gov.uk/",
+      "key": "nationalarchives.gov.uk",
+      "category": "history",
+      "tags": [
+        "archives",
+        "en",
+        "uk"
+      ],
+      "desc": "英国国家档案馆",
+      "added": "2026-10-11",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "history-022",
+      "name": "Wilson Center 数字档案",
+      "url": "https://www.wilsoncenter.org/digital-archive",
+      "key": "wilsoncenter.org/digital-archive",
+      "category": "history",
+      "tags": [
+        "cold-war",
+        "documents",
+        "en"
+      ],
+      "desc": "冷战等国际史解密档案",
+      "added": "2026-10-11",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "history-023",
+      "name": "Our World in Data",
+      "url": "https://ourworldindata.org/",
+      "key": "ourworldindata.org",
+      "category": "history",
+      "tags": [
+        "data",
+        "charts",
+        "long-run"
+      ],
+      "desc": "长时段人类发展数据图表",
+      "added": "2026-10-11",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "history-024",
+      "name": "Pleiades",
+      "url": "https://pleiades.stoa.org/",
+      "key": "pleiades.stoa.org",
+      "category": "history",
+      "tags": [
+        "ancient",
+        "maps",
+        "gazetteer"
+      ],
+      "desc": "古代世界地名辞典",
+      "added": "2026-10-11",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "history-025",
+      "name": "ORBIS 罗马地理网络",
+      "url": "https://orbis.stanford.edu/",
+      "key": "orbis.stanford.edu",
+      "category": "history",
+      "tags": [
+        "ancient",
+        "rome",
+        "interactive"
+      ],
+      "desc": "斯坦福的罗马帝国交通模拟",
+      "added": "2026-10-11",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "history-026",
+      "name": "中国国家博物馆",
+      "url": "https://www.chnmuseum.cn/",
+      "key": "chnmuseum.cn",
+      "category": "history",
+      "tags": [
+        "museum",
+        "zh",
+        "china"
+      ],
+      "desc": "国博藏品与数字展厅",
+      "added": "2026-10-11",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "history-027",
+      "name": "中华珍宝馆",
+      "url": "https://www.ltfc.net/",
+      "key": "ltfc.net",
+      "category": "history",
+      "tags": [
+        "zh",
+        "painting",
+        "museum"
+      ],
+      "desc": "中国古代书画高清影像",
+      "added": "2026-10-11",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "history-028",
+      "name": "抗战文献数据平台",
+      "url": "https://www.modernhistory.org.cn/",
+      "key": "modernhistory.org.cn",
+      "category": "history",
+      "tags": [
+        "zh",
+        "modern",
+        "documents"
+      ],
+      "desc": "近代中国报刊与抗战文献",
+      "added": "2026-10-11",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "history-029",
+      "name": "Imperial War Museums",
+      "url": "https://www.iwm.org.uk/collections",
+      "key": "iwm.org.uk/collections",
+      "category": "history",
+      "tags": [
+        "war",
+        "museum",
+        "en"
+      ],
+      "desc": "英国战争博物馆藏品与影像",
+      "added": "2026-10-11",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "history-030",
+      "name": "Bodleian Digital",
+      "url": "https://digital.bodleian.ox.ac.uk/",
+      "key": "digital.bodleian.ox.ac.uk",
+      "category": "history",
+      "tags": [
+        "manuscripts",
+        "oxford",
+        "scans"
+      ],
+      "desc": "牛津大学图书馆手稿影像",
+      "added": "2026-10-11",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "history-031",
+      "name": "e-codices",
+      "url": "https://www.e-codices.unifr.ch/en",
+      "key": "e-codices.unifr.ch/en",
+      "category": "history",
+      "tags": [
+        "manuscripts",
+        "medieval",
+        "scans"
+      ],
+      "desc": "瑞士中世纪手抄本",
+      "added": "2026-10-11",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "history-032",
+      "name": "DigiVatLib 梵蒂冈图书馆",
+      "url": "https://digi.vatlib.it/",
+      "key": "digi.vatlib.it",
+      "category": "history",
+      "tags": [
+        "manuscripts",
+        "vatican",
+        "scans"
+      ],
+      "desc": "梵蒂冈图书馆手稿数字化",
+      "added": "2026-10-11",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "history-033",
+      "name": "日本国立国会图书馆数字馆藏",
+      "url": "https://dl.ndl.go.jp/",
+      "key": "dl.ndl.go.jp",
+      "category": "history",
+      "tags": [
+        "japan",
+        "archive",
+        "guji"
+      ],
+      "desc": "含大量汉籍的日本国会图书馆影像",
+      "added": "2026-10-11",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "history-034",
+      "name": "早稻田古典籍综合数据库",
+      "url": "https://www.wul.waseda.ac.jp/kotenseki/",
+      "key": "wul.waseda.ac.jp/kotenseki",
+      "category": "history",
+      "tags": [
+        "guji",
+        "japan",
+        "scans"
+      ],
+      "desc": "早大所藏汉籍古典籍全彩扫描",
+      "added": "2026-10-11",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "history-035",
+      "name": "汉籍电子文献资料库",
+      "url": "https://hanchi.ihp.sinica.edu.tw/ihp/hanji.htm",
+      "key": "hanchi.ihp.sinica.edu.tw/ihp/hanji.htm",
+      "category": "history",
+      "tags": [
+        "zh",
+        "guji",
+        "database"
+      ],
+      "desc": "中研院二十五史等古籍全文",
+      "added": "2026-10-11",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "id": "history-036",
+      "name": "Cooper Hewitt 设计博物馆",
+      "url": "https://collection.cooperhewitt.org/",
+      "key": "collection.cooperhewitt.org",
+      "category": "history",
+      "tags": [
+        "design",
+        "museum",
+        "en"
+      ],
+      "desc": "史密森尼设计博物馆藏品",
+      "added": "2026-10-11",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "name": "国家哲学社会科学文献中心",
+      "url": "https://www.ncpssd.cn/",
+      "key": "ncpssd.cn",
+      "category": "books",
+      "tags": [
+        "zh",
+        "papers",
+        "ancient-texts"
+      ],
+      "desc": "社科院建设，注册后免费下载社科期刊论文与古籍",
+      "id": "books-034",
+      "added": "2026-10-12",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "name": "CBETA 中华电子佛典",
+      "url": "https://www.cbeta.org/",
+      "key": "cbeta.org",
+      "category": "books",
+      "tags": [
+        "zh",
+        "buddhism",
+        "classics"
+      ],
+      "desc": "大正藏等佛典全文，可免费在线检索与下载",
+      "id": "books-035",
+      "added": "2026-10-12",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "name": "台湾图书馆古籍与特藏文献",
+      "url": "https://rbook.ncl.edu.tw/NCLSearch",
+      "key": "rbook.ncl.edu.tw",
+      "category": "books",
+      "tags": [
+        "zh",
+        "ancient-texts",
+        "rare-books"
+      ],
+      "desc": "台湾图书馆善本古籍、拓片与手稿的数字影像库",
+      "id": "books-036",
+      "added": "2026-10-12",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "name": "International Children's Digital Library",
+      "url": "http://www.childrenslibrary.org/",
+      "key": "childrenslibrary.org",
+      "category": "books",
+      "tags": [
+        "en",
+        "kids",
+        "multilingual"
+      ],
+      "desc": "数千本多语种儿童绘本扫描版，含中文可在线读",
+      "id": "books-037",
+      "added": "2026-10-12",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "name": "Loyal Books",
+      "url": "https://www.loyalbooks.com/",
+      "key": "loyalbooks.com",
+      "category": "books",
+      "tags": [
+        "en",
+        "audiobooks",
+        "public-domain"
+      ],
+      "desc": "七千多部公版名著的免费有声书，支持MP3下载",
+      "id": "books-038",
+      "added": "2026-10-12",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "name": "Planet eBook",
+      "url": "https://www.planetebook.com/",
+      "key": "planetebook.com",
+      "category": "books",
+      "tags": [
+        "en",
+        "classics",
+        "public-domain"
+      ],
+      "desc": "经典文学名著精排版，可免费下载PDF与EPUB",
+      "id": "books-039",
+      "added": "2026-10-12",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "name": "BCcampus Open Textbooks",
+      "url": "https://open.bccampus.ca/",
+      "key": "open.bccampus.ca",
+      "category": "books",
+      "tags": [
+        "en",
+        "textbooks",
+        "open-access"
+      ],
+      "desc": "加拿大开放教材库，数百本大学教材免费下载",
+      "id": "books-040",
+      "added": "2026-10-12",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "name": "Storynory",
+      "url": "https://www.storynory.com/",
+      "key": "storynory.com",
+      "category": "books",
+      "tags": [
+        "en",
+        "kids",
+        "audiobooks"
+      ],
+      "desc": "专业配音的英文童话音频，附全文适合练听力",
+      "id": "books-041",
+      "added": "2026-10-12",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "name": "华文慕课",
+      "url": "https://www.chinesemooc.org/",
+      "key": "chinesemooc.org",
+      "category": "courses",
+      "tags": [
+        "zh",
+        "mooc",
+        "university"
+      ],
+      "desc": "北京大学创办的公益慕课平台，免费学北大课程",
+      "id": "courses-035",
+      "added": "2026-10-12",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "name": "爱课程",
+      "url": "https://www.icourses.cn/",
+      "key": "icourses.cn",
+      "category": "courses",
+      "tags": [
+        "zh",
+        "university",
+        "video"
+      ],
+      "desc": "教育部精品开放课程平台，汇集高校视频公开课",
+      "id": "courses-036",
+      "added": "2026-10-12",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "name": "CMU Open Learning Initiative",
+      "url": "https://oli.cmu.edu/",
+      "key": "oli.cmu.edu",
+      "category": "courses",
+      "tags": [
+        "en",
+        "university",
+        "interactive"
+      ],
+      "desc": "卡内基梅隆开放课程，统计化学等配交互练习",
+      "id": "courses-037",
+      "added": "2026-10-12",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "name": "Complexity Explorer",
+      "url": "https://www.complexityexplorer.org/",
+      "key": "complexityexplorer.org",
+      "category": "courses",
+      "tags": [
+        "en",
+        "science",
+        "complexity"
+      ],
+      "desc": "圣塔菲研究所出品，免费学复杂系统与混沌理论",
+      "id": "courses-038",
+      "added": "2026-10-12",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "name": "Gresham College",
+      "url": "https://www.gresham.ac.uk/",
+      "key": "gresham.ac.uk",
+      "category": "courses",
+      "tags": [
+        "en",
+        "lectures",
+        "humanities"
+      ],
+      "desc": "伦敦格雷沙姆学院数千场免费公开讲座视频",
+      "id": "courses-039",
+      "added": "2026-10-12",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "name": "Hugging Face Learn",
+      "url": "https://huggingface.co/learn",
+      "key": "huggingface.co/learn",
+      "category": "courses",
+      "tags": [
+        "en",
+        "ai",
+        "nlp"
+      ],
+      "desc": "Hugging Face官方免费课程，涵盖大模型与智能体",
+      "id": "courses-040",
+      "added": "2026-10-12",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "name": "Neuromatch Academy",
+      "url": "https://compneuro.neuromatch.io/",
+      "key": "compneuro.neuromatch.io",
+      "category": "courses",
+      "tags": [
+        "en",
+        "neuroscience",
+        "python"
+      ],
+      "desc": "开源计算神经科学课程，配可运行的Python练习",
+      "id": "courses-041",
+      "added": "2026-10-12",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "name": "TED-Ed",
+      "url": "https://ed.ted.com/",
+      "key": "ed.ted.com",
+      "category": "courses",
+      "tags": [
+        "en",
+        "video",
+        "general"
+      ],
+      "desc": "数千部精良动画短课，覆盖科学历史文学并附习题",
+      "id": "courses-042",
+      "added": "2026-10-12",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "name": "ZeoSeven Fonts",
+      "url": "https://fonts.zeoseven.com/",
+      "key": "fonts.zeoseven.com",
+      "category": "fonts",
+      "tags": [
+        "zh",
+        "ofl",
+        "webfont-api"
+      ],
+      "desc": "收录千余款免费商用字体，可按书体与许可筛选",
+      "id": "fonts-035",
+      "added": "2026-10-12",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "name": "Free Chinese Fonts",
+      "url": "https://www.freechinesefont.com/",
+      "key": "freechinesefont.com",
+      "category": "fonts",
+      "tags": [
+        "zh",
+        "en",
+        "ofl"
+      ],
+      "desc": "两百多款免费简繁中文字体，标注能否商用",
+      "id": "fonts-036",
+      "added": "2026-10-12",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "name": "文泉驿",
+      "url": "http://wenq.org/",
+      "key": "wenq.org",
+      "category": "fonts",
+      "tags": [
+        "zh",
+        "gpl",
+        "open-source"
+      ],
+      "desc": "老牌开源中文字体项目，正黑与点阵宋可免费下载",
+      "id": "fonts-037",
+      "added": "2026-10-12",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "name": "字由",
+      "url": "https://www.hellofont.cn/",
+      "key": "hellofont.cn",
+      "category": "fonts",
+      "tags": [
+        "zh",
+        "freemium",
+        "font-tool"
+      ],
+      "desc": "字体客户端，九百多款免费商用字体一键切换",
+      "id": "fonts-038",
+      "added": "2026-10-12",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "name": "Free Faces",
+      "url": "https://www.freefaces.gallery/",
+      "key": "freefaces.gallery",
+      "category": "fonts",
+      "tags": [
+        "en",
+        "curated",
+        "free-license"
+      ],
+      "desc": "精选免费西文展示字体画廊，附原作者下载链接",
+      "id": "fonts-039",
+      "added": "2026-10-12",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "name": "Wakamai Fondue",
+      "url": "https://wakamaifondue.com/",
+      "key": "wakamaifondue.com",
+      "category": "fonts",
+      "tags": [
+        "en",
+        "font-tool",
+        "opentype"
+      ],
+      "desc": "拖入字体即可查看字符集、OpenType特性",
+      "id": "fonts-040",
+      "added": "2026-10-12",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "name": "FontDrop!",
+      "url": "https://fontdrop.info/",
+      "key": "fontdrop.info",
+      "category": "fonts",
+      "tags": [
+        "en",
+        "font-tool",
+        "glyph-viewer"
+      ],
+      "desc": "在线字体检查器，浏览全部字形与授权元数据",
+      "id": "fonts-041",
+      "added": "2026-10-12",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "name": "Fontjoy",
+      "url": "https://fontjoy.com/",
+      "key": "fontjoy.com",
+      "category": "fonts",
+      "tags": [
+        "en",
+        "font-pairing",
+        "free"
+      ],
+      "desc": "机器学习一键生成标题与正文的免费字体搭配",
+      "id": "fonts-042",
+      "added": "2026-10-12",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "name": "Rijksmuseum Collection",
+      "url": "https://www.rijksmuseum.nl/en/collection",
+      "key": "rijksmuseum.nl",
+      "category": "images",
+      "tags": [
+        "en",
+        "public-domain",
+        "museum"
+      ],
+      "desc": "荷兰国立博物馆藏品高清图免费下载，含伦勃朗名作",
+      "id": "images-036",
+      "added": "2026-10-12",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "name": "NYPL Digital Collections",
+      "url": "https://digitalcollections.nypl.org/",
+      "key": "digitalcollections.nypl.org",
+      "category": "images",
+      "tags": [
+        "en",
+        "public-domain",
+        "archive"
+      ],
+      "desc": "纽约公共图书馆老地图、版画等公有领域高清图",
+      "id": "images-038",
+      "added": "2026-10-12",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "name": "Library of Congress Free to Use",
+      "url": "https://www.loc.gov/free-to-use/",
+      "key": "loc.gov/free-to-use",
+      "category": "images",
+      "tags": [
+        "en",
+        "public-domain",
+        "archive"
+      ],
+      "desc": "美国国会图书馆按主题精选的无版权限制图片集",
+      "id": "images-039",
+      "added": "2026-10-12",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "name": "MingCute",
+      "url": "https://www.mingcute.com/",
+      "key": "mingcute.com",
+      "category": "images",
+      "tags": [
+        "zh",
+        "apache-2.0",
+        "icons"
+      ],
+      "desc": "三千多个精致线性图标，含中国元素，开源可商用",
+      "id": "images-040",
+      "added": "2026-10-12",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "name": "Yesicon",
+      "url": "https://yesicon.app/zh-Hans",
+      "key": "yesicon.app",
+      "category": "images",
+      "tags": [
+        "zh",
+        "open-source",
+        "icons"
+      ],
+      "desc": "支持中文搜索的开源图标聚合站，逐套标明许可",
+      "id": "images-041",
+      "added": "2026-10-12",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "name": "Open Doodles",
+      "url": "https://www.opendoodles.com/",
+      "key": "opendoodles.com",
+      "category": "images",
+      "tags": [
+        "en",
+        "cc0",
+        "illustration"
+      ],
+      "desc": "CC0手绘风人物涂鸦插画，可在线换色下载SVG",
+      "id": "images-042",
+      "added": "2026-10-12",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "name": "计算机教育中缺失的一课",
+      "url": "https://missing-semester-cn.github.io",
+      "key": "missing-semester-cn.github.io",
+      "category": "dev",
+      "tags": [
+        "zh",
+        "mit",
+        "shell",
+        "git"
+      ],
+      "desc": "MIT公开课中文版，讲透命令行、Git、Vim等工具",
+      "id": "dev-039",
+      "added": "2026-10-12",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "name": "Linux命令搜索引擎",
+      "url": "https://wangchujiang.com/linux-command/",
+      "key": "wangchujiang.com/linux-command",
+      "category": "dev",
+      "tags": [
+        "zh",
+        "linux",
+        "reference"
+      ],
+      "desc": "近六百条Linux命令的中文详解与示例，可即时搜索",
+      "id": "dev-040",
+      "added": "2026-10-12",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "name": "IT Tools",
+      "url": "https://it-tools.tech",
+      "key": "it-tools.tech",
+      "category": "dev",
+      "tags": [
+        "en",
+        "tools",
+        "open-source"
+      ],
+      "desc": "开源开发者工具箱，集成编码、哈希、正则等数十工具",
+      "id": "dev-041",
+      "added": "2026-10-12",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "name": "Crontab.guru",
+      "url": "https://crontab.guru",
+      "key": "crontab.guru",
+      "category": "dev",
+      "tags": [
+        "en",
+        "cron",
+        "tools"
+      ],
+      "desc": "把cron表达式翻译成人话，并显示下次执行时间",
+      "id": "dev-042",
+      "added": "2026-10-12",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "name": "SQLBolt",
+      "url": "https://sqlbolt.com",
+      "key": "sqlbolt.com",
+      "category": "dev",
+      "tags": [
+        "en",
+        "sql",
+        "interactive"
+      ],
+      "desc": "浏览器内互动SQL入门课，每课配即时练习题",
+      "id": "dev-043",
+      "added": "2026-10-12",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "name": "Flexbox Froggy",
+      "url": "https://flexboxfroggy.com/#zh-cn",
+      "key": "flexboxfroggy.com",
+      "category": "dev",
+      "tags": [
+        "zh",
+        "css",
+        "game"
+      ],
+      "desc": "送小青蛙上荷叶的闯关游戏，24关学会Flexbox",
+      "id": "dev-044",
+      "added": "2026-10-12",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "name": "JSON Crack",
+      "url": "https://jsoncrack.com",
+      "key": "jsoncrack.com",
+      "category": "dev",
+      "tags": [
+        "en",
+        "json",
+        "visualization"
+      ],
+      "desc": "把JSON、YAML转成交互节点图，嵌套结构一目了然",
+      "id": "dev-045",
+      "added": "2026-10-12",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "name": "Learning Music（Ableton）",
+      "url": "https://learningmusic.ableton.com/zh-Hans/",
+      "key": "learningmusic.ableton.com",
+      "category": "music",
+      "tags": [
+        "zh",
+        "theory",
+        "interactive"
+      ],
+      "desc": "Ableton出品中文互动课，在浏览器里拼节奏学作曲",
+      "id": "music-033",
+      "added": "2026-10-12",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "name": "Musicca",
+      "url": "https://www.musicca.com/zh",
+      "key": "musicca.com",
+      "category": "music",
+      "tags": [
+        "zh",
+        "theory",
+        "ear-training"
+      ],
+      "desc": "免费在线乐理课与练习，含虚拟钢琴和练耳训练",
+      "id": "music-034",
+      "added": "2026-10-12",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "name": "LilyPond",
+      "url": "https://lilypond.org/index.zh.html",
+      "key": "lilypond.org",
+      "category": "music",
+      "tags": [
+        "zh",
+        "notation",
+        "open-source"
+      ],
+      "desc": "开源文本式打谱软件，排出出版级乐谱，有中文文档",
+      "id": "music-035",
+      "added": "2026-10-12",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "name": "Vital",
+      "url": "https://vital.audio",
+      "key": "vital.audio",
+      "category": "music",
+      "tags": [
+        "en",
+        "synth",
+        "plugin"
+      ],
+      "desc": "频谱扭曲波表合成器，免费版含完整引擎与预设",
+      "id": "music-036",
+      "added": "2026-10-12",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "name": "Mixxx",
+      "url": "https://mixxx.org",
+      "key": "mixxx.org",
+      "category": "music",
+      "tags": [
+        "en",
+        "dj",
+        "open-source"
+      ],
+      "desc": "开源免费DJ打碟软件，支持MIDI控制器与直播推流",
+      "id": "music-037",
+      "added": "2026-10-12",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "name": "Looperman",
+      "url": "https://www.looperman.com",
+      "key": "looperman.com",
+      "category": "music",
+      "tags": [
+        "en",
+        "loops",
+        "samples"
+      ],
+      "desc": "制作人共享的免版税循环乐句与人声干声素材库",
+      "id": "music-038",
+      "added": "2026-10-12",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "name": "ToneDear",
+      "url": "https://tonedear.com",
+      "key": "tonedear.com",
+      "category": "music",
+      "tags": [
+        "en",
+        "ear-training"
+      ],
+      "desc": "免费网页练耳工具，练音程、和弦、音阶与和弦进行",
+      "id": "music-039",
+      "added": "2026-10-12",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "name": "jsfxr",
+      "url": "https://sfxr.me",
+      "key": "sfxr.me",
+      "category": "music",
+      "tags": [
+        "en",
+        "sfx",
+        "8-bit",
+        "game"
+      ],
+      "desc": "浏览器里一键生成8-bit复古游戏音效，可导出WAV",
+      "id": "music-040",
+      "added": "2026-10-12",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "name": "GCompris 儿童教育游戏套件",
+      "url": "https://gcompris.net",
+      "key": "gcompris.net",
+      "category": "games",
+      "tags": [
+        "educational",
+        "kids",
+        "open-source",
+        "zh"
+      ],
+      "desc": "开源儿童教育软件，百余个识字算术科学小游戏",
+      "id": "games-037",
+      "added": "2026-10-12",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "name": "汉兜 Handle",
+      "url": "https://handle.antfu.me",
+      "key": "handle.antfu.me",
+      "category": "games",
+      "tags": [
+        "puzzle",
+        "browser",
+        "chinese",
+        "zh"
+      ],
+      "desc": "汉字版Wordle，凭拼音声调提示猜四字成语",
+      "id": "games-038",
+      "added": "2026-10-12",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "name": "The Powder Toy",
+      "url": "https://powdertoy.co.uk",
+      "key": "powdertoy.co.uk",
+      "category": "games",
+      "tags": [
+        "sandbox",
+        "physics",
+        "open-source",
+        "en"
+      ],
+      "desc": "开源物理沙盒，模拟火焰、电路、核反应等元素",
+      "id": "games-039",
+      "added": "2026-10-12",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "name": "Sandspiel",
+      "url": "https://sandspiel.club",
+      "key": "sandspiel.club",
+      "category": "games",
+      "tags": [
+        "browser",
+        "sandbox",
+        "open-source",
+        "en"
+      ],
+      "desc": "网页落沙游戏，用水火植物等元素造景并分享",
+      "id": "games-040",
+      "added": "2026-10-12",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "name": "ScummVM 免费经典游戏",
+      "url": "https://www.scummvm.org/games/",
+      "key": "scummvm.org",
+      "category": "games",
+      "tags": [
+        "adventure",
+        "freeware",
+        "classic",
+        "en"
+      ],
+      "desc": "官方授权免费下载《钢铁苍穹》等经典点击式冒险游戏",
+      "id": "games-041",
+      "added": "2026-10-12",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "name": "js13kGames",
+      "url": "https://js13kgames.com",
+      "key": "js13kgames.com",
+      "category": "games",
+      "tags": [
+        "browser",
+        "indie",
+        "contest",
+        "en"
+      ],
+      "desc": "13KB以内网页游戏大赛，历届上千款作品免费玩",
+      "id": "games-042",
+      "added": "2026-10-12",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "name": "The Ur-Quan Masters（星际控制2）",
+      "url": "https://sc2.sourceforge.net",
+      "key": "sc2.sourceforge.net",
+      "category": "games",
+      "tags": [
+        "classic",
+        "space",
+        "open-source",
+        "en"
+      ],
+      "desc": "经典太空冒险《星际控制2》官方开源移植版",
+      "id": "games-043",
+      "added": "2026-10-12",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "name": "Shattered Pixel Dungeon",
+      "url": "https://shatteredpixel.com",
+      "key": "shatteredpixel.com",
+      "category": "games",
+      "tags": [
+        "roguelike",
+        "open-source",
+        "mobile",
+        "zh"
+      ],
+      "desc": "开源像素地牢肉鸽游戏，支持中文，电脑手机均可免费玩",
+      "id": "games-044",
+      "added": "2026-10-12",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "name": "香港記憶 Hong Kong Memory",
+      "url": "https://www.hkmemory.hk",
+      "key": "hkmemory.hk",
+      "category": "history",
+      "tags": [
+        "oral-history",
+        "archive",
+        "hong-kong",
+        "zh"
+      ],
+      "desc": "香港老照片、影像与口述历史的数字记忆档案库",
+      "id": "history-037",
+      "added": "2026-10-12",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "name": "GeaCron 世界历史地图",
+      "url": "http://geacron.com",
+      "key": "geacron.com",
+      "category": "history",
+      "tags": [
+        "maps",
+        "timeline",
+        "interactive",
+        "en"
+      ],
+      "desc": "按年份查看公元前3000年至今疆域变化的交互地图",
+      "id": "history-038",
+      "added": "2026-10-12",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "name": "Histography",
+      "url": "https://histography.io",
+      "key": "histography.io",
+      "category": "history",
+      "tags": [
+        "timeline",
+        "interactive",
+        "visualization",
+        "en"
+      ],
+      "desc": "把维基百科上百万历史事件铺成一条可缩放的互动时间轴",
+      "id": "history-039",
+      "added": "2026-10-12",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "name": "Densho 日裔美国人档案",
+      "url": "https://densho.org",
+      "key": "densho.org",
+      "category": "history",
+      "tags": [
+        "oral-history",
+        "archive",
+        "wwii",
+        "en"
+      ],
+      "desc": "二战美国拘禁日裔的口述访谈与原始照片档案库",
+      "id": "history-040",
+      "added": "2026-10-12",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "name": "Digital Silk Road 数字丝绸之路",
+      "url": "https://dsr.nii.ac.jp",
+      "key": "dsr.nii.ac.jp",
+      "category": "history",
+      "tags": [
+        "silk-road",
+        "maps",
+        "rare-books",
+        "en"
+      ],
+      "desc": "日本丝路数字档案：遗址数据库、古地图与珍本",
+      "id": "history-041",
+      "added": "2026-10-12",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "name": "明清妇女著作 Ming Qing Women's Writings",
+      "url": "https://mhdb.mh.sinica.edu.tw/mingqing/mqww/",
+      "key": "mhdb.mh.sinica.edu.tw",
+      "category": "history",
+      "tags": [
+        "ancient-texts",
+        "women",
+        "ming-qing",
+        "zh"
+      ],
+      "desc": "中研院合建，在线阅读明清女性诗文集原刻影像",
+      "id": "history-042",
+      "added": "2026-10-12",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "name": "MIT Visualizing Cultures",
+      "url": "https://visualizingcultures.mit.edu",
+      "key": "visualizingcultures.mit.edu",
+      "category": "history",
+      "tags": [
+        "images",
+        "modern-history",
+        "east-asia",
+        "en"
+      ],
+      "desc": "麻省理工以老照片版画解读近代中日历史事件",
+      "id": "history-043",
+      "added": "2026-10-12",
+      "last_checked": "2026-10-12",
+      "status": "ok"
+    }
+  ]
+}
